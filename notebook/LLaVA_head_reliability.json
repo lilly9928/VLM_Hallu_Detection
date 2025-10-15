@@ -1,0 +1,5122 @@
+[
+  {
+    "layer": 0,
+    "head": 0,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 0,
+    "head": 1,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 0,
+    "head": 2,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 0,
+    "head": 3,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 0,
+    "head": 4,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 0,
+    "head": 5,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 0,
+    "head": 6,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 0,
+    "head": 7,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 0,
+    "head": 8,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 0,
+    "head": 9,
+    "reliability": 0.029850746268656914
+  },
+  {
+    "layer": 0,
+    "head": 10,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 0,
+    "head": 11,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 0,
+    "head": 12,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 0,
+    "head": 13,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 0,
+    "head": 14,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 0,
+    "head": 15,
+    "reliability": 0.11940298507462743
+  },
+  {
+    "layer": 0,
+    "head": 16,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 0,
+    "head": 17,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 0,
+    "head": 18,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 0,
+    "head": 19,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 0,
+    "head": 20,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 0,
+    "head": 21,
+    "reliability": 0.3134328358208953
+  },
+  {
+    "layer": 0,
+    "head": 22,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 0,
+    "head": 23,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 0,
+    "head": 24,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 0,
+    "head": 25,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 0,
+    "head": 26,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 0,
+    "head": 27,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 0,
+    "head": 28,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 0,
+    "head": 29,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 0,
+    "head": 30,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 0,
+    "head": 31,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 1,
+    "head": 0,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 1,
+    "head": 1,
+    "reliability": 0.9104477611940298
+  },
+  {
+    "layer": 1,
+    "head": 2,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 1,
+    "head": 3,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 1,
+    "head": 4,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 1,
+    "head": 5,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 1,
+    "head": 6,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 1,
+    "head": 7,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 1,
+    "head": 8,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 1,
+    "head": 9,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 1,
+    "head": 10,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 1,
+    "head": 11,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 1,
+    "head": 12,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 1,
+    "head": 13,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 1,
+    "head": 14,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 1,
+    "head": 15,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 1,
+    "head": 16,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 1,
+    "head": 17,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 1,
+    "head": 18,
+    "reliability": 0.16417910447761241
+  },
+  {
+    "layer": 1,
+    "head": 19,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 1,
+    "head": 20,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 1,
+    "head": 21,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 1,
+    "head": 22,
+    "reliability": 0.6268656716417913
+  },
+  {
+    "layer": 1,
+    "head": 23,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 1,
+    "head": 24,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 1,
+    "head": 25,
+    "reliability": 0.3134328358208953
+  },
+  {
+    "layer": 1,
+    "head": 26,
+    "reliability": 0.6268656716417913
+  },
+  {
+    "layer": 1,
+    "head": 27,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 1,
+    "head": 28,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 1,
+    "head": 29,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 1,
+    "head": 30,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 1,
+    "head": 31,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 2,
+    "head": 0,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 2,
+    "head": 1,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 2,
+    "head": 2,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 2,
+    "head": 3,
+    "reliability": 0.32835820895522405
+  },
+  {
+    "layer": 2,
+    "head": 4,
+    "reliability": 0.7462686567164181
+  },
+  {
+    "layer": 2,
+    "head": 5,
+    "reliability": 0.6268656716417913
+  },
+  {
+    "layer": 2,
+    "head": 6,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 2,
+    "head": 7,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 2,
+    "head": 8,
+    "reliability": 0.8507462686567164
+  },
+  {
+    "layer": 2,
+    "head": 9,
+    "reliability": 0.7164179104477615
+  },
+  {
+    "layer": 2,
+    "head": 10,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 2,
+    "head": 11,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 2,
+    "head": 12,
+    "reliability": 0.6567164179104479
+  },
+  {
+    "layer": 2,
+    "head": 13,
+    "reliability": 0.17910447761194048
+  },
+  {
+    "layer": 2,
+    "head": 14,
+    "reliability": 0.8656716417910448
+  },
+  {
+    "layer": 2,
+    "head": 15,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 2,
+    "head": 16,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 2,
+    "head": 17,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 2,
+    "head": 18,
+    "reliability": 0.7164179104477615
+  },
+  {
+    "layer": 2,
+    "head": 19,
+    "reliability": 0.35820895522388096
+  },
+  {
+    "layer": 2,
+    "head": 20,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 2,
+    "head": 21,
+    "reliability": 0.34328358208955256
+  },
+  {
+    "layer": 2,
+    "head": 22,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 2,
+    "head": 23,
+    "reliability": 0.8507462686567164
+  },
+  {
+    "layer": 2,
+    "head": 24,
+    "reliability": 0.17910447761194048
+  },
+  {
+    "layer": 2,
+    "head": 25,
+    "reliability": 0.8059701492537311
+  },
+  {
+    "layer": 2,
+    "head": 26,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 2,
+    "head": 27,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 2,
+    "head": 28,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 2,
+    "head": 29,
+    "reliability": 0.1044776119402987
+  },
+  {
+    "layer": 2,
+    "head": 30,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 2,
+    "head": 31,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 3,
+    "head": 0,
+    "reliability": 0.8507462686567164
+  },
+  {
+    "layer": 3,
+    "head": 1,
+    "reliability": 0.17910447761194048
+  },
+  {
+    "layer": 3,
+    "head": 2,
+    "reliability": 0.8507462686567164
+  },
+  {
+    "layer": 3,
+    "head": 3,
+    "reliability": 0.11940298507462743
+  },
+  {
+    "layer": 3,
+    "head": 4,
+    "reliability": 0.8059701492537311
+  },
+  {
+    "layer": 3,
+    "head": 5,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 3,
+    "head": 6,
+    "reliability": 0.9253731343283582
+  },
+  {
+    "layer": 3,
+    "head": 7,
+    "reliability": 0.8656716417910448
+  },
+  {
+    "layer": 3,
+    "head": 8,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 3,
+    "head": 9,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 3,
+    "head": 10,
+    "reliability": 0.6716417910447763
+  },
+  {
+    "layer": 3,
+    "head": 11,
+    "reliability": 0.6865671641791047
+  },
+  {
+    "layer": 3,
+    "head": 12,
+    "reliability": 0.11940298507462743
+  },
+  {
+    "layer": 3,
+    "head": 13,
+    "reliability": 0.8507462686567164
+  },
+  {
+    "layer": 3,
+    "head": 14,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 3,
+    "head": 15,
+    "reliability": 0.8208955223880595
+  },
+  {
+    "layer": 3,
+    "head": 16,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 3,
+    "head": 17,
+    "reliability": 0.25373134328358227
+  },
+  {
+    "layer": 3,
+    "head": 18,
+    "reliability": 0.7611940298507465
+  },
+  {
+    "layer": 3,
+    "head": 19,
+    "reliability": 0.6268656716417913
+  },
+  {
+    "layer": 3,
+    "head": 20,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 3,
+    "head": 21,
+    "reliability": 0.7910447761194034
+  },
+  {
+    "layer": 3,
+    "head": 22,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 3,
+    "head": 23,
+    "reliability": 0.6268656716417913
+  },
+  {
+    "layer": 3,
+    "head": 24,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 3,
+    "head": 25,
+    "reliability": 0.7761194029850749
+  },
+  {
+    "layer": 3,
+    "head": 26,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 3,
+    "head": 27,
+    "reliability": 0.7910447761194034
+  },
+  {
+    "layer": 3,
+    "head": 28,
+    "reliability": 0.32835820895522405
+  },
+  {
+    "layer": 3,
+    "head": 29,
+    "reliability": 0.9253731343283582
+  },
+  {
+    "layer": 3,
+    "head": 30,
+    "reliability": 0.7611940298507465
+  },
+  {
+    "layer": 3,
+    "head": 31,
+    "reliability": 0.9701492537313435
+  },
+  {
+    "layer": 4,
+    "head": 0,
+    "reliability": 0.7164179104477615
+  },
+  {
+    "layer": 4,
+    "head": 1,
+    "reliability": 0.16417910447761241
+  },
+  {
+    "layer": 4,
+    "head": 2,
+    "reliability": 0.6865671641791047
+  },
+  {
+    "layer": 4,
+    "head": 3,
+    "reliability": 0.7164179104477615
+  },
+  {
+    "layer": 4,
+    "head": 4,
+    "reliability": 0.7910447761194034
+  },
+  {
+    "layer": 4,
+    "head": 5,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 4,
+    "head": 6,
+    "reliability": 0.25373134328358227
+  },
+  {
+    "layer": 4,
+    "head": 7,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 4,
+    "head": 8,
+    "reliability": 0.9701492537313435
+  },
+  {
+    "layer": 4,
+    "head": 9,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 4,
+    "head": 10,
+    "reliability": 0.6567164179104479
+  },
+  {
+    "layer": 4,
+    "head": 11,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 4,
+    "head": 12,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 4,
+    "head": 13,
+    "reliability": 0.11940298507462743
+  },
+  {
+    "layer": 4,
+    "head": 14,
+    "reliability": 0.6268656716417913
+  },
+  {
+    "layer": 4,
+    "head": 15,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 4,
+    "head": 16,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 4,
+    "head": 17,
+    "reliability": 0.32835820895522405
+  },
+  {
+    "layer": 4,
+    "head": 18,
+    "reliability": 0.29850746268656725
+  },
+  {
+    "layer": 4,
+    "head": 19,
+    "reliability": 0.1044776119402987
+  },
+  {
+    "layer": 4,
+    "head": 20,
+    "reliability": 0.20895522388059662
+  },
+  {
+    "layer": 4,
+    "head": 21,
+    "reliability": 0.08955223880597063
+  },
+  {
+    "layer": 4,
+    "head": 22,
+    "reliability": 0.7313432835820892
+  },
+  {
+    "layer": 4,
+    "head": 23,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 4,
+    "head": 24,
+    "reliability": 0.14925373134328357
+  },
+  {
+    "layer": 4,
+    "head": 25,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 4,
+    "head": 26,
+    "reliability": 0.8507462686567164
+  },
+  {
+    "layer": 4,
+    "head": 27,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 4,
+    "head": 28,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 4,
+    "head": 29,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 4,
+    "head": 30,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 4,
+    "head": 31,
+    "reliability": 0.8358208955223879
+  },
+  {
+    "layer": 5,
+    "head": 0,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 5,
+    "head": 1,
+    "reliability": 0.955223880597015
+  },
+  {
+    "layer": 5,
+    "head": 2,
+    "reliability": 0.059701492537313716
+  },
+  {
+    "layer": 5,
+    "head": 3,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 5,
+    "head": 4,
+    "reliability": 0.9104477611940298
+  },
+  {
+    "layer": 5,
+    "head": 5,
+    "reliability": 0.8208955223880595
+  },
+  {
+    "layer": 5,
+    "head": 6,
+    "reliability": 0.35820895522388096
+  },
+  {
+    "layer": 5,
+    "head": 7,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 5,
+    "head": 8,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 5,
+    "head": 9,
+    "reliability": 0.7313432835820892
+  },
+  {
+    "layer": 5,
+    "head": 10,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 5,
+    "head": 11,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 5,
+    "head": 12,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 5,
+    "head": 13,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 5,
+    "head": 14,
+    "reliability": 0.9104477611940298
+  },
+  {
+    "layer": 5,
+    "head": 15,
+    "reliability": 0.17910447761194048
+  },
+  {
+    "layer": 5,
+    "head": 16,
+    "reliability": 0.7014925373134331
+  },
+  {
+    "layer": 5,
+    "head": 17,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 5,
+    "head": 18,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 5,
+    "head": 19,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 5,
+    "head": 20,
+    "reliability": 0.29850746268656725
+  },
+  {
+    "layer": 5,
+    "head": 21,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 5,
+    "head": 22,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 5,
+    "head": 23,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 5,
+    "head": 24,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 5,
+    "head": 25,
+    "reliability": 0.7164179104477615
+  },
+  {
+    "layer": 5,
+    "head": 26,
+    "reliability": 0.35820895522388096
+  },
+  {
+    "layer": 5,
+    "head": 27,
+    "reliability": 0.08955223880597063
+  },
+  {
+    "layer": 5,
+    "head": 28,
+    "reliability": 0.9253731343283582
+  },
+  {
+    "layer": 5,
+    "head": 29,
+    "reliability": 0.8805970149253736
+  },
+  {
+    "layer": 5,
+    "head": 30,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 5,
+    "head": 31,
+    "reliability": 0.7313432835820892
+  },
+  {
+    "layer": 6,
+    "head": 0,
+    "reliability": 0.8955223880597013
+  },
+  {
+    "layer": 6,
+    "head": 1,
+    "reliability": 0.8805970149253736
+  },
+  {
+    "layer": 6,
+    "head": 2,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 6,
+    "head": 3,
+    "reliability": 0.6716417910447763
+  },
+  {
+    "layer": 6,
+    "head": 4,
+    "reliability": 0.8805970149253736
+  },
+  {
+    "layer": 6,
+    "head": 5,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 6,
+    "head": 6,
+    "reliability": 0.8805970149253736
+  },
+  {
+    "layer": 6,
+    "head": 7,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 6,
+    "head": 8,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 6,
+    "head": 9,
+    "reliability": 1.0
+  },
+  {
+    "layer": 6,
+    "head": 10,
+    "reliability": 0.7014925373134331
+  },
+  {
+    "layer": 6,
+    "head": 11,
+    "reliability": 0.3134328358208953
+  },
+  {
+    "layer": 6,
+    "head": 12,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 6,
+    "head": 13,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 6,
+    "head": 14,
+    "reliability": 0.6716417910447763
+  },
+  {
+    "layer": 6,
+    "head": 15,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 6,
+    "head": 16,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 6,
+    "head": 17,
+    "reliability": 0.7313432835820892
+  },
+  {
+    "layer": 6,
+    "head": 18,
+    "reliability": 0.7761194029850749
+  },
+  {
+    "layer": 6,
+    "head": 19,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 6,
+    "head": 20,
+    "reliability": 0.7611940298507465
+  },
+  {
+    "layer": 6,
+    "head": 21,
+    "reliability": 0.32835820895522405
+  },
+  {
+    "layer": 6,
+    "head": 22,
+    "reliability": 0.7611940298507465
+  },
+  {
+    "layer": 6,
+    "head": 23,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 6,
+    "head": 24,
+    "reliability": 0.7761194029850749
+  },
+  {
+    "layer": 6,
+    "head": 25,
+    "reliability": 0.6268656716417913
+  },
+  {
+    "layer": 6,
+    "head": 26,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 6,
+    "head": 27,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 6,
+    "head": 28,
+    "reliability": 0.9701492537313435
+  },
+  {
+    "layer": 6,
+    "head": 29,
+    "reliability": 0.7611940298507465
+  },
+  {
+    "layer": 6,
+    "head": 30,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 6,
+    "head": 31,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 7,
+    "head": 0,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 7,
+    "head": 1,
+    "reliability": 0.8059701492537311
+  },
+  {
+    "layer": 7,
+    "head": 2,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 7,
+    "head": 3,
+    "reliability": 0.6567164179104479
+  },
+  {
+    "layer": 7,
+    "head": 4,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 7,
+    "head": 5,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 7,
+    "head": 6,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 7,
+    "head": 7,
+    "reliability": 0.7761194029850749
+  },
+  {
+    "layer": 7,
+    "head": 8,
+    "reliability": 0.9253731343283582
+  },
+  {
+    "layer": 7,
+    "head": 9,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 7,
+    "head": 10,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 7,
+    "head": 11,
+    "reliability": 0.29850746268656725
+  },
+  {
+    "layer": 7,
+    "head": 12,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 7,
+    "head": 13,
+    "reliability": 0.34328358208955256
+  },
+  {
+    "layer": 7,
+    "head": 14,
+    "reliability": 0.6716417910447763
+  },
+  {
+    "layer": 7,
+    "head": 15,
+    "reliability": 0.7164179104477615
+  },
+  {
+    "layer": 7,
+    "head": 16,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 7,
+    "head": 17,
+    "reliability": 0.7761194029850749
+  },
+  {
+    "layer": 7,
+    "head": 18,
+    "reliability": 0.3134328358208953
+  },
+  {
+    "layer": 7,
+    "head": 19,
+    "reliability": 0.7164179104477615
+  },
+  {
+    "layer": 7,
+    "head": 20,
+    "reliability": 0.3134328358208953
+  },
+  {
+    "layer": 7,
+    "head": 21,
+    "reliability": 0.8358208955223879
+  },
+  {
+    "layer": 7,
+    "head": 22,
+    "reliability": 0.14925373134328357
+  },
+  {
+    "layer": 7,
+    "head": 23,
+    "reliability": 0.29850746268656725
+  },
+  {
+    "layer": 7,
+    "head": 24,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 7,
+    "head": 25,
+    "reliability": 0.7611940298507465
+  },
+  {
+    "layer": 7,
+    "head": 26,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 7,
+    "head": 27,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 7,
+    "head": 28,
+    "reliability": 0.7014925373134331
+  },
+  {
+    "layer": 7,
+    "head": 29,
+    "reliability": 0.7014925373134331
+  },
+  {
+    "layer": 7,
+    "head": 30,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 7,
+    "head": 31,
+    "reliability": 0.7462686567164181
+  },
+  {
+    "layer": 8,
+    "head": 0,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 8,
+    "head": 1,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 8,
+    "head": 2,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 8,
+    "head": 3,
+    "reliability": 0.25373134328358227
+  },
+  {
+    "layer": 8,
+    "head": 4,
+    "reliability": 0.34328358208955256
+  },
+  {
+    "layer": 8,
+    "head": 5,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 8,
+    "head": 6,
+    "reliability": 0.8955223880597013
+  },
+  {
+    "layer": 8,
+    "head": 7,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 8,
+    "head": 8,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 8,
+    "head": 9,
+    "reliability": 0.9104477611940298
+  },
+  {
+    "layer": 8,
+    "head": 10,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 8,
+    "head": 11,
+    "reliability": 0.26865671641791034
+  },
+  {
+    "layer": 8,
+    "head": 12,
+    "reliability": 0.11940298507462743
+  },
+  {
+    "layer": 8,
+    "head": 13,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 8,
+    "head": 14,
+    "reliability": 0.25373134328358227
+  },
+  {
+    "layer": 8,
+    "head": 15,
+    "reliability": 0.7313432835820892
+  },
+  {
+    "layer": 8,
+    "head": 16,
+    "reliability": 0.8656716417910448
+  },
+  {
+    "layer": 8,
+    "head": 17,
+    "reliability": 0.6567164179104479
+  },
+  {
+    "layer": 8,
+    "head": 18,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 8,
+    "head": 19,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 8,
+    "head": 20,
+    "reliability": 0.16417910447761241
+  },
+  {
+    "layer": 8,
+    "head": 21,
+    "reliability": 0.26865671641791034
+  },
+  {
+    "layer": 8,
+    "head": 22,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 8,
+    "head": 23,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 8,
+    "head": 24,
+    "reliability": 0.6567164179104479
+  },
+  {
+    "layer": 8,
+    "head": 25,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 8,
+    "head": 26,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 8,
+    "head": 27,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 8,
+    "head": 28,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 8,
+    "head": 29,
+    "reliability": 0.32835820895522405
+  },
+  {
+    "layer": 8,
+    "head": 30,
+    "reliability": 0.29850746268656725
+  },
+  {
+    "layer": 8,
+    "head": 31,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 9,
+    "head": 0,
+    "reliability": 0.0
+  },
+  {
+    "layer": 9,
+    "head": 1,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 9,
+    "head": 2,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 9,
+    "head": 3,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 9,
+    "head": 4,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 9,
+    "head": 5,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 9,
+    "head": 6,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 9,
+    "head": 7,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 9,
+    "head": 8,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 9,
+    "head": 9,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 9,
+    "head": 10,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 9,
+    "head": 11,
+    "reliability": 0.32835820895522405
+  },
+  {
+    "layer": 9,
+    "head": 12,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 9,
+    "head": 13,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 9,
+    "head": 14,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 9,
+    "head": 15,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 9,
+    "head": 16,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 9,
+    "head": 17,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 9,
+    "head": 18,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 9,
+    "head": 19,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 9,
+    "head": 20,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 9,
+    "head": 21,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 9,
+    "head": 22,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 9,
+    "head": 23,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 9,
+    "head": 24,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 9,
+    "head": 25,
+    "reliability": 0.2835820895522392
+  },
+  {
+    "layer": 9,
+    "head": 26,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 9,
+    "head": 27,
+    "reliability": 0.9253731343283582
+  },
+  {
+    "layer": 9,
+    "head": 28,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 9,
+    "head": 29,
+    "reliability": 0.34328358208955256
+  },
+  {
+    "layer": 9,
+    "head": 30,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 9,
+    "head": 31,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 10,
+    "head": 0,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 10,
+    "head": 1,
+    "reliability": 0.34328358208955256
+  },
+  {
+    "layer": 10,
+    "head": 2,
+    "reliability": 0.19402985074626922
+  },
+  {
+    "layer": 10,
+    "head": 3,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 10,
+    "head": 4,
+    "reliability": 0.25373134328358227
+  },
+  {
+    "layer": 10,
+    "head": 5,
+    "reliability": 0.7313432835820892
+  },
+  {
+    "layer": 10,
+    "head": 6,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 10,
+    "head": 7,
+    "reliability": 0.6268656716417913
+  },
+  {
+    "layer": 10,
+    "head": 8,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 10,
+    "head": 9,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 10,
+    "head": 10,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 10,
+    "head": 11,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 10,
+    "head": 12,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 10,
+    "head": 13,
+    "reliability": 0.6716417910447763
+  },
+  {
+    "layer": 10,
+    "head": 14,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 10,
+    "head": 15,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 10,
+    "head": 16,
+    "reliability": 0.6268656716417913
+  },
+  {
+    "layer": 10,
+    "head": 17,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 10,
+    "head": 18,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 10,
+    "head": 19,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 10,
+    "head": 20,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 10,
+    "head": 21,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 10,
+    "head": 22,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 10,
+    "head": 23,
+    "reliability": 0.13432835820895483
+  },
+  {
+    "layer": 10,
+    "head": 24,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 10,
+    "head": 25,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 10,
+    "head": 26,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 10,
+    "head": 27,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 10,
+    "head": 28,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 10,
+    "head": 29,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 10,
+    "head": 30,
+    "reliability": 0.22388059701492546
+  },
+  {
+    "layer": 10,
+    "head": 31,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 11,
+    "head": 0,
+    "reliability": 0.25373134328358227
+  },
+  {
+    "layer": 11,
+    "head": 1,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 11,
+    "head": 2,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 11,
+    "head": 3,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 11,
+    "head": 4,
+    "reliability": 0.7164179104477615
+  },
+  {
+    "layer": 11,
+    "head": 5,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 11,
+    "head": 6,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 11,
+    "head": 7,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 11,
+    "head": 8,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 11,
+    "head": 9,
+    "reliability": 0.2835820895522392
+  },
+  {
+    "layer": 11,
+    "head": 10,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 11,
+    "head": 11,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 11,
+    "head": 12,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 11,
+    "head": 13,
+    "reliability": 0.25373134328358227
+  },
+  {
+    "layer": 11,
+    "head": 14,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 11,
+    "head": 15,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 11,
+    "head": 16,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 11,
+    "head": 17,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 11,
+    "head": 18,
+    "reliability": 0.6716417910447763
+  },
+  {
+    "layer": 11,
+    "head": 19,
+    "reliability": 0.29850746268656725
+  },
+  {
+    "layer": 11,
+    "head": 20,
+    "reliability": 0.29850746268656725
+  },
+  {
+    "layer": 11,
+    "head": 21,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 11,
+    "head": 22,
+    "reliability": 0.2835820895522392
+  },
+  {
+    "layer": 11,
+    "head": 23,
+    "reliability": 0.6567164179104479
+  },
+  {
+    "layer": 11,
+    "head": 24,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 11,
+    "head": 25,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 11,
+    "head": 26,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 11,
+    "head": 27,
+    "reliability": 0.6268656716417913
+  },
+  {
+    "layer": 11,
+    "head": 28,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 11,
+    "head": 29,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 11,
+    "head": 30,
+    "reliability": 0.35820895522388096
+  },
+  {
+    "layer": 11,
+    "head": 31,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 12,
+    "head": 0,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 12,
+    "head": 1,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 12,
+    "head": 2,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 12,
+    "head": 3,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 12,
+    "head": 4,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 12,
+    "head": 5,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 12,
+    "head": 6,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 12,
+    "head": 7,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 12,
+    "head": 8,
+    "reliability": 0.3134328358208953
+  },
+  {
+    "layer": 12,
+    "head": 9,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 12,
+    "head": 10,
+    "reliability": 0.6716417910447763
+  },
+  {
+    "layer": 12,
+    "head": 11,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 12,
+    "head": 12,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 12,
+    "head": 13,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 12,
+    "head": 14,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 12,
+    "head": 15,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 12,
+    "head": 16,
+    "reliability": 0.35820895522388096
+  },
+  {
+    "layer": 12,
+    "head": 17,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 12,
+    "head": 18,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 12,
+    "head": 19,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 12,
+    "head": 20,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 12,
+    "head": 21,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 12,
+    "head": 22,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 12,
+    "head": 23,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 12,
+    "head": 24,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 12,
+    "head": 25,
+    "reliability": 0.29850746268656725
+  },
+  {
+    "layer": 12,
+    "head": 26,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 12,
+    "head": 27,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 12,
+    "head": 28,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 12,
+    "head": 29,
+    "reliability": 0.7313432835820892
+  },
+  {
+    "layer": 12,
+    "head": 30,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 12,
+    "head": 31,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 13,
+    "head": 0,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 13,
+    "head": 1,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 13,
+    "head": 2,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 13,
+    "head": 3,
+    "reliability": 0.6567164179104479
+  },
+  {
+    "layer": 13,
+    "head": 4,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 13,
+    "head": 5,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 13,
+    "head": 6,
+    "reliability": 0.7611940298507465
+  },
+  {
+    "layer": 13,
+    "head": 7,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 13,
+    "head": 8,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 13,
+    "head": 9,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 13,
+    "head": 10,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 13,
+    "head": 11,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 13,
+    "head": 12,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 13,
+    "head": 13,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 13,
+    "head": 14,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 13,
+    "head": 15,
+    "reliability": 0.6567164179104479
+  },
+  {
+    "layer": 13,
+    "head": 16,
+    "reliability": 0.6716417910447763
+  },
+  {
+    "layer": 13,
+    "head": 17,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 13,
+    "head": 18,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 13,
+    "head": 19,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 13,
+    "head": 20,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 13,
+    "head": 21,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 13,
+    "head": 22,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 13,
+    "head": 23,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 13,
+    "head": 24,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 13,
+    "head": 25,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 13,
+    "head": 26,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 13,
+    "head": 27,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 13,
+    "head": 28,
+    "reliability": 0.34328358208955256
+  },
+  {
+    "layer": 13,
+    "head": 29,
+    "reliability": 0.6865671641791047
+  },
+  {
+    "layer": 13,
+    "head": 30,
+    "reliability": 0.7313432835820892
+  },
+  {
+    "layer": 13,
+    "head": 31,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 14,
+    "head": 0,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 14,
+    "head": 1,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 14,
+    "head": 2,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 14,
+    "head": 3,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 14,
+    "head": 4,
+    "reliability": 0.35820895522388096
+  },
+  {
+    "layer": 14,
+    "head": 5,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 14,
+    "head": 6,
+    "reliability": 0.6716417910447763
+  },
+  {
+    "layer": 14,
+    "head": 7,
+    "reliability": 0.7164179104477615
+  },
+  {
+    "layer": 14,
+    "head": 8,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 14,
+    "head": 9,
+    "reliability": 0.6567164179104479
+  },
+  {
+    "layer": 14,
+    "head": 10,
+    "reliability": 0.6268656716417913
+  },
+  {
+    "layer": 14,
+    "head": 11,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 14,
+    "head": 12,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 14,
+    "head": 13,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 14,
+    "head": 14,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 14,
+    "head": 15,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 14,
+    "head": 16,
+    "reliability": 0.7164179104477615
+  },
+  {
+    "layer": 14,
+    "head": 17,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 14,
+    "head": 18,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 14,
+    "head": 19,
+    "reliability": 0.35820895522388096
+  },
+  {
+    "layer": 14,
+    "head": 20,
+    "reliability": 0.6268656716417913
+  },
+  {
+    "layer": 14,
+    "head": 21,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 14,
+    "head": 22,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 14,
+    "head": 23,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 14,
+    "head": 24,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 14,
+    "head": 25,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 14,
+    "head": 26,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 14,
+    "head": 27,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 14,
+    "head": 28,
+    "reliability": 0.7761194029850749
+  },
+  {
+    "layer": 14,
+    "head": 29,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 14,
+    "head": 30,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 14,
+    "head": 31,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 15,
+    "head": 0,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 15,
+    "head": 1,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 15,
+    "head": 2,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 15,
+    "head": 3,
+    "reliability": 0.6716417910447763
+  },
+  {
+    "layer": 15,
+    "head": 4,
+    "reliability": 0.6865671641791047
+  },
+  {
+    "layer": 15,
+    "head": 5,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 15,
+    "head": 6,
+    "reliability": 0.29850746268656725
+  },
+  {
+    "layer": 15,
+    "head": 7,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 15,
+    "head": 8,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 15,
+    "head": 9,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 15,
+    "head": 10,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 15,
+    "head": 11,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 15,
+    "head": 12,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 15,
+    "head": 13,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 15,
+    "head": 14,
+    "reliability": 0.25373134328358227
+  },
+  {
+    "layer": 15,
+    "head": 15,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 15,
+    "head": 16,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 15,
+    "head": 17,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 15,
+    "head": 18,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 15,
+    "head": 19,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 15,
+    "head": 20,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 15,
+    "head": 21,
+    "reliability": 0.35820895522388096
+  },
+  {
+    "layer": 15,
+    "head": 22,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 15,
+    "head": 23,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 15,
+    "head": 24,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 15,
+    "head": 25,
+    "reliability": 0.6865671641791047
+  },
+  {
+    "layer": 15,
+    "head": 26,
+    "reliability": 0.26865671641791034
+  },
+  {
+    "layer": 15,
+    "head": 27,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 15,
+    "head": 28,
+    "reliability": 0.7164179104477615
+  },
+  {
+    "layer": 15,
+    "head": 29,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 15,
+    "head": 30,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 15,
+    "head": 31,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 16,
+    "head": 0,
+    "reliability": 0.6567164179104479
+  },
+  {
+    "layer": 16,
+    "head": 1,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 16,
+    "head": 2,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 16,
+    "head": 3,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 16,
+    "head": 4,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 16,
+    "head": 5,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 16,
+    "head": 6,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 16,
+    "head": 7,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 16,
+    "head": 8,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 16,
+    "head": 9,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 16,
+    "head": 10,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 16,
+    "head": 11,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 16,
+    "head": 12,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 16,
+    "head": 13,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 16,
+    "head": 14,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 16,
+    "head": 15,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 16,
+    "head": 16,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 16,
+    "head": 17,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 16,
+    "head": 18,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 16,
+    "head": 19,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 16,
+    "head": 20,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 16,
+    "head": 21,
+    "reliability": 0.6716417910447763
+  },
+  {
+    "layer": 16,
+    "head": 22,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 16,
+    "head": 23,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 16,
+    "head": 24,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 16,
+    "head": 25,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 16,
+    "head": 26,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 16,
+    "head": 27,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 16,
+    "head": 28,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 16,
+    "head": 29,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 16,
+    "head": 30,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 16,
+    "head": 31,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 17,
+    "head": 0,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 17,
+    "head": 1,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 17,
+    "head": 2,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 17,
+    "head": 3,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 17,
+    "head": 4,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 17,
+    "head": 5,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 17,
+    "head": 6,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 17,
+    "head": 7,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 17,
+    "head": 8,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 17,
+    "head": 9,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 17,
+    "head": 10,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 17,
+    "head": 11,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 17,
+    "head": 12,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 17,
+    "head": 13,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 17,
+    "head": 14,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 17,
+    "head": 15,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 17,
+    "head": 16,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 17,
+    "head": 17,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 17,
+    "head": 18,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 17,
+    "head": 19,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 17,
+    "head": 20,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 17,
+    "head": 21,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 17,
+    "head": 22,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 17,
+    "head": 23,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 17,
+    "head": 24,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 17,
+    "head": 25,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 17,
+    "head": 26,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 17,
+    "head": 27,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 17,
+    "head": 28,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 17,
+    "head": 29,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 17,
+    "head": 30,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 17,
+    "head": 31,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 18,
+    "head": 0,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 18,
+    "head": 1,
+    "reliability": 0.6716417910447763
+  },
+  {
+    "layer": 18,
+    "head": 2,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 18,
+    "head": 3,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 18,
+    "head": 4,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 18,
+    "head": 5,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 18,
+    "head": 6,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 18,
+    "head": 7,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 18,
+    "head": 8,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 18,
+    "head": 9,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 18,
+    "head": 10,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 18,
+    "head": 11,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 18,
+    "head": 12,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 18,
+    "head": 13,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 18,
+    "head": 14,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 18,
+    "head": 15,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 18,
+    "head": 16,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 18,
+    "head": 17,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 18,
+    "head": 18,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 18,
+    "head": 19,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 18,
+    "head": 20,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 18,
+    "head": 21,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 18,
+    "head": 22,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 18,
+    "head": 23,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 18,
+    "head": 24,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 18,
+    "head": 25,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 18,
+    "head": 26,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 18,
+    "head": 27,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 18,
+    "head": 28,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 18,
+    "head": 29,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 18,
+    "head": 30,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 18,
+    "head": 31,
+    "reliability": 0.13432835820895483
+  },
+  {
+    "layer": 19,
+    "head": 0,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 19,
+    "head": 1,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 19,
+    "head": 2,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 19,
+    "head": 3,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 19,
+    "head": 4,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 19,
+    "head": 5,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 19,
+    "head": 6,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 19,
+    "head": 7,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 19,
+    "head": 8,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 19,
+    "head": 9,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 19,
+    "head": 10,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 19,
+    "head": 11,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 19,
+    "head": 12,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 19,
+    "head": 13,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 19,
+    "head": 14,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 19,
+    "head": 15,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 19,
+    "head": 16,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 19,
+    "head": 17,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 19,
+    "head": 18,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 19,
+    "head": 19,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 19,
+    "head": 20,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 19,
+    "head": 21,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 19,
+    "head": 22,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 19,
+    "head": 23,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 19,
+    "head": 24,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 19,
+    "head": 25,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 19,
+    "head": 26,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 19,
+    "head": 27,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 19,
+    "head": 28,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 19,
+    "head": 29,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 19,
+    "head": 30,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 19,
+    "head": 31,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 20,
+    "head": 0,
+    "reliability": 0.6268656716417913
+  },
+  {
+    "layer": 20,
+    "head": 1,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 20,
+    "head": 2,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 20,
+    "head": 3,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 20,
+    "head": 4,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 20,
+    "head": 5,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 20,
+    "head": 6,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 20,
+    "head": 7,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 20,
+    "head": 8,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 20,
+    "head": 9,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 20,
+    "head": 10,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 20,
+    "head": 11,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 20,
+    "head": 12,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 20,
+    "head": 13,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 20,
+    "head": 14,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 20,
+    "head": 15,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 20,
+    "head": 16,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 20,
+    "head": 17,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 20,
+    "head": 18,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 20,
+    "head": 19,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 20,
+    "head": 20,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 20,
+    "head": 21,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 20,
+    "head": 22,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 20,
+    "head": 23,
+    "reliability": 0.34328358208955256
+  },
+  {
+    "layer": 20,
+    "head": 24,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 20,
+    "head": 25,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 20,
+    "head": 26,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 20,
+    "head": 27,
+    "reliability": 0.35820895522388096
+  },
+  {
+    "layer": 20,
+    "head": 28,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 20,
+    "head": 29,
+    "reliability": 0.6865671641791047
+  },
+  {
+    "layer": 20,
+    "head": 30,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 20,
+    "head": 31,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 21,
+    "head": 0,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 21,
+    "head": 1,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 21,
+    "head": 2,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 21,
+    "head": 3,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 21,
+    "head": 4,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 21,
+    "head": 5,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 21,
+    "head": 6,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 21,
+    "head": 7,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 21,
+    "head": 8,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 21,
+    "head": 9,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 21,
+    "head": 10,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 21,
+    "head": 11,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 21,
+    "head": 12,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 21,
+    "head": 13,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 21,
+    "head": 14,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 21,
+    "head": 15,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 21,
+    "head": 16,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 21,
+    "head": 17,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 21,
+    "head": 18,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 21,
+    "head": 19,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 21,
+    "head": 20,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 21,
+    "head": 21,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 21,
+    "head": 22,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 21,
+    "head": 23,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 21,
+    "head": 24,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 21,
+    "head": 25,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 21,
+    "head": 26,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 21,
+    "head": 27,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 21,
+    "head": 28,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 21,
+    "head": 29,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 21,
+    "head": 30,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 21,
+    "head": 31,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 22,
+    "head": 0,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 22,
+    "head": 1,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 22,
+    "head": 2,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 22,
+    "head": 3,
+    "reliability": 0.32835820895522405
+  },
+  {
+    "layer": 22,
+    "head": 4,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 22,
+    "head": 5,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 22,
+    "head": 6,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 22,
+    "head": 7,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 22,
+    "head": 8,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 22,
+    "head": 9,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 22,
+    "head": 10,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 22,
+    "head": 11,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 22,
+    "head": 12,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 22,
+    "head": 13,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 22,
+    "head": 14,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 22,
+    "head": 15,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 22,
+    "head": 16,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 22,
+    "head": 17,
+    "reliability": 0.34328358208955256
+  },
+  {
+    "layer": 22,
+    "head": 18,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 22,
+    "head": 19,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 22,
+    "head": 20,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 22,
+    "head": 21,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 22,
+    "head": 22,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 22,
+    "head": 23,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 22,
+    "head": 24,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 22,
+    "head": 25,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 22,
+    "head": 26,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 22,
+    "head": 27,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 22,
+    "head": 28,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 22,
+    "head": 29,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 22,
+    "head": 30,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 22,
+    "head": 31,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 23,
+    "head": 0,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 23,
+    "head": 1,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 23,
+    "head": 2,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 23,
+    "head": 3,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 23,
+    "head": 4,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 23,
+    "head": 5,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 23,
+    "head": 6,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 23,
+    "head": 7,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 23,
+    "head": 8,
+    "reliability": 0.6417910447761195
+  },
+  {
+    "layer": 23,
+    "head": 9,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 23,
+    "head": 10,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 23,
+    "head": 11,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 23,
+    "head": 12,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 23,
+    "head": 13,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 23,
+    "head": 14,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 23,
+    "head": 15,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 23,
+    "head": 16,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 23,
+    "head": 17,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 23,
+    "head": 18,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 23,
+    "head": 19,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 23,
+    "head": 20,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 23,
+    "head": 21,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 23,
+    "head": 22,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 23,
+    "head": 23,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 23,
+    "head": 24,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 23,
+    "head": 25,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 23,
+    "head": 26,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 23,
+    "head": 27,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 23,
+    "head": 28,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 23,
+    "head": 29,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 23,
+    "head": 30,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 23,
+    "head": 31,
+    "reliability": 0.7761194029850749
+  },
+  {
+    "layer": 24,
+    "head": 0,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 24,
+    "head": 1,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 24,
+    "head": 2,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 24,
+    "head": 3,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 24,
+    "head": 4,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 24,
+    "head": 5,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 24,
+    "head": 6,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 24,
+    "head": 7,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 24,
+    "head": 8,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 24,
+    "head": 9,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 24,
+    "head": 10,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 24,
+    "head": 11,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 24,
+    "head": 12,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 24,
+    "head": 13,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 24,
+    "head": 14,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 24,
+    "head": 15,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 24,
+    "head": 16,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 24,
+    "head": 17,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 24,
+    "head": 18,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 24,
+    "head": 19,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 24,
+    "head": 20,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 24,
+    "head": 21,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 24,
+    "head": 22,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 24,
+    "head": 23,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 24,
+    "head": 24,
+    "reliability": 0.9253731343283582
+  },
+  {
+    "layer": 24,
+    "head": 25,
+    "reliability": 0.6716417910447763
+  },
+  {
+    "layer": 24,
+    "head": 26,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 24,
+    "head": 27,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 24,
+    "head": 28,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 24,
+    "head": 29,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 24,
+    "head": 30,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 24,
+    "head": 31,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 25,
+    "head": 0,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 25,
+    "head": 1,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 25,
+    "head": 2,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 25,
+    "head": 3,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 25,
+    "head": 4,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 25,
+    "head": 5,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 25,
+    "head": 6,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 25,
+    "head": 7,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 25,
+    "head": 8,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 25,
+    "head": 9,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 25,
+    "head": 10,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 25,
+    "head": 11,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 25,
+    "head": 12,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 25,
+    "head": 13,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 25,
+    "head": 14,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 25,
+    "head": 15,
+    "reliability": 0.6119402985074629
+  },
+  {
+    "layer": 25,
+    "head": 16,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 25,
+    "head": 17,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 25,
+    "head": 18,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 25,
+    "head": 19,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 25,
+    "head": 20,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 25,
+    "head": 21,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 25,
+    "head": 22,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 25,
+    "head": 23,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 25,
+    "head": 24,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 25,
+    "head": 25,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 25,
+    "head": 26,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 25,
+    "head": 27,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 25,
+    "head": 28,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 25,
+    "head": 29,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 25,
+    "head": 30,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 25,
+    "head": 31,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 26,
+    "head": 0,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 26,
+    "head": 1,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 26,
+    "head": 2,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 26,
+    "head": 3,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 26,
+    "head": 4,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 26,
+    "head": 5,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 26,
+    "head": 6,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 26,
+    "head": 7,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 26,
+    "head": 8,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 26,
+    "head": 9,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 26,
+    "head": 10,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 26,
+    "head": 11,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 26,
+    "head": 12,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 26,
+    "head": 13,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 26,
+    "head": 14,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 26,
+    "head": 15,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 26,
+    "head": 16,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 26,
+    "head": 17,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 26,
+    "head": 18,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 26,
+    "head": 19,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 26,
+    "head": 20,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 26,
+    "head": 21,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 26,
+    "head": 22,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 26,
+    "head": 23,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 26,
+    "head": 24,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 26,
+    "head": 25,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 26,
+    "head": 26,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 26,
+    "head": 27,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 26,
+    "head": 28,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 26,
+    "head": 29,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 26,
+    "head": 30,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 26,
+    "head": 31,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 27,
+    "head": 0,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 27,
+    "head": 1,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 27,
+    "head": 2,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 27,
+    "head": 3,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 27,
+    "head": 4,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 27,
+    "head": 5,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 27,
+    "head": 6,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 27,
+    "head": 7,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 27,
+    "head": 8,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 27,
+    "head": 9,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 27,
+    "head": 10,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 27,
+    "head": 11,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 27,
+    "head": 12,
+    "reliability": 0.6865671641791047
+  },
+  {
+    "layer": 27,
+    "head": 13,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 27,
+    "head": 14,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 27,
+    "head": 15,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 27,
+    "head": 16,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 27,
+    "head": 17,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 27,
+    "head": 18,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 27,
+    "head": 19,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 27,
+    "head": 20,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 27,
+    "head": 21,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 27,
+    "head": 22,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 27,
+    "head": 23,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 27,
+    "head": 24,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 27,
+    "head": 25,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 27,
+    "head": 26,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 27,
+    "head": 27,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 27,
+    "head": 28,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 27,
+    "head": 29,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 27,
+    "head": 30,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 27,
+    "head": 31,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 28,
+    "head": 0,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 28,
+    "head": 1,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 28,
+    "head": 2,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 28,
+    "head": 3,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 28,
+    "head": 4,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 28,
+    "head": 5,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 28,
+    "head": 6,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 28,
+    "head": 7,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 28,
+    "head": 8,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 28,
+    "head": 9,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 28,
+    "head": 10,
+    "reliability": 0.43283582089552275
+  },
+  {
+    "layer": 28,
+    "head": 11,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 28,
+    "head": 12,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 28,
+    "head": 13,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 28,
+    "head": 14,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 28,
+    "head": 15,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 28,
+    "head": 16,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 28,
+    "head": 17,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 28,
+    "head": 18,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 28,
+    "head": 19,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 28,
+    "head": 20,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 28,
+    "head": 21,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 28,
+    "head": 22,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 28,
+    "head": 23,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 28,
+    "head": 24,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 28,
+    "head": 25,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 28,
+    "head": 26,
+    "reliability": 0.3880597014925371
+  },
+  {
+    "layer": 28,
+    "head": 27,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 28,
+    "head": 28,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 28,
+    "head": 29,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 28,
+    "head": 30,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 28,
+    "head": 31,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 29,
+    "head": 0,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 29,
+    "head": 1,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 29,
+    "head": 2,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 29,
+    "head": 3,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 29,
+    "head": 4,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 29,
+    "head": 5,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 29,
+    "head": 6,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 29,
+    "head": 7,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 29,
+    "head": 8,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 29,
+    "head": 9,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 29,
+    "head": 10,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 29,
+    "head": 11,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 29,
+    "head": 12,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 29,
+    "head": 13,
+    "reliability": 0.8059701492537311
+  },
+  {
+    "layer": 29,
+    "head": 14,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 29,
+    "head": 15,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 29,
+    "head": 16,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 29,
+    "head": 17,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 29,
+    "head": 18,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 29,
+    "head": 19,
+    "reliability": 0.417910447761194
+  },
+  {
+    "layer": 29,
+    "head": 20,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 29,
+    "head": 21,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 29,
+    "head": 22,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 29,
+    "head": 23,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 29,
+    "head": 24,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 29,
+    "head": 25,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 29,
+    "head": 26,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 29,
+    "head": 27,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 29,
+    "head": 28,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 29,
+    "head": 29,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 29,
+    "head": 30,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 29,
+    "head": 31,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 30,
+    "head": 0,
+    "reliability": 0.46268656716417966
+  },
+  {
+    "layer": 30,
+    "head": 1,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 30,
+    "head": 2,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 30,
+    "head": 3,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 30,
+    "head": 4,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 30,
+    "head": 5,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 30,
+    "head": 6,
+    "reliability": 0.5820895522388061
+  },
+  {
+    "layer": 30,
+    "head": 7,
+    "reliability": 0.4029850746268655
+  },
+  {
+    "layer": 30,
+    "head": 8,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 30,
+    "head": 9,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 30,
+    "head": 10,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 30,
+    "head": 11,
+    "reliability": 0.37313432835820937
+  },
+  {
+    "layer": 30,
+    "head": 12,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 30,
+    "head": 13,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 30,
+    "head": 14,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 30,
+    "head": 15,
+    "reliability": 0.5970149253731345
+  },
+  {
+    "layer": 30,
+    "head": 16,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 30,
+    "head": 17,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 30,
+    "head": 18,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 30,
+    "head": 19,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 30,
+    "head": 20,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 30,
+    "head": 21,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 30,
+    "head": 22,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 30,
+    "head": 23,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 30,
+    "head": 24,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 30,
+    "head": 25,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 30,
+    "head": 26,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 30,
+    "head": 27,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 30,
+    "head": 28,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 30,
+    "head": 29,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 30,
+    "head": 30,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 30,
+    "head": 31,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 31,
+    "head": 0,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 31,
+    "head": 1,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 31,
+    "head": 2,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 31,
+    "head": 3,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 31,
+    "head": 4,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 31,
+    "head": 5,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 31,
+    "head": 6,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 31,
+    "head": 7,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 31,
+    "head": 8,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 31,
+    "head": 9,
+    "reliability": 0.4776119402985074
+  },
+  {
+    "layer": 31,
+    "head": 10,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 31,
+    "head": 11,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 31,
+    "head": 12,
+    "reliability": 0.5671641791044776
+  },
+  {
+    "layer": 31,
+    "head": 13,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 31,
+    "head": 14,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 31,
+    "head": 15,
+    "reliability": 0.5373134328358211
+  },
+  {
+    "layer": 31,
+    "head": 16,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 31,
+    "head": 17,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 31,
+    "head": 18,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 31,
+    "head": 19,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 31,
+    "head": 20,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 31,
+    "head": 21,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 31,
+    "head": 22,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 31,
+    "head": 23,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 31,
+    "head": 24,
+    "reliability": 0.5522388059701492
+  },
+  {
+    "layer": 31,
+    "head": 25,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 31,
+    "head": 26,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 31,
+    "head": 27,
+    "reliability": 0.44776119402985115
+  },
+  {
+    "layer": 31,
+    "head": 28,
+    "reliability": 0.4925373134328358
+  },
+  {
+    "layer": 31,
+    "head": 29,
+    "reliability": 0.5074626865671642
+  },
+  {
+    "layer": 31,
+    "head": 30,
+    "reliability": 0.5223880597014927
+  },
+  {
+    "layer": 31,
+    "head": 31,
+    "reliability": 0.4925373134328358
+  }
+]

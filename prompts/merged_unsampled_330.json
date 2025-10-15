@@ -1,0 +1,4622 @@
+[
+    {
+        "idx": 0,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/beer-bottle_on_armchair.jpeg",
+        "caption": [
+            "A beer bottle on a armchair",
+            "A beer bottle under a armchair",
+            "A beer bottle to the left of a armchair",
+            "A beer bottle to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the beer bottle in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 2,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/scarf_right_of_armchair.jpeg",
+        "caption": [
+            "A scarf to the right of a armchair",
+            "A scarf on a armchair",
+            "A scarf under a armchair",
+            "A scarf to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the scarf in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 3,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/orange_right_of_armchair.jpeg",
+        "caption": [
+            "A orange to the right of a armchair",
+            "A orange on a armchair",
+            "A orange under a armchair",
+            "A orange to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the orange in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 5,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/scarf_under_table.jpeg",
+        "caption": [
+            "A scarf under a table",
+            "A scarf on a table",
+            "A scarf to the left of a table",
+            "A scarf to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the scarf in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 6,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/sunglasses_left_of_chair.jpeg",
+        "caption": [
+            "A sunglasses to the left of a chair",
+            "A sunglasses on a chair",
+            "A sunglasses under a chair",
+            "A sunglasses to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the sunglasses in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 7,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/toilet-roll_left_of_table.jpeg",
+        "caption": [
+            "A toilet roll to the left of a table",
+            "A toilet roll on a table",
+            "A toilet roll under a table",
+            "A toilet roll to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the toilet roll in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 8,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bottle_right_of_chair.jpeg",
+        "caption": [
+            "A bottle to the right of a chair",
+            "A bottle on a chair",
+            "A bottle under a chair",
+            "A bottle to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bottle in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 9,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cup_right_of_chair.jpeg",
+        "caption": [
+            "A cup to the right of a chair",
+            "A cup on a chair",
+            "A cup under a chair",
+            "A cup to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the cup in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 10,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bowl_left_of_armchair.jpeg",
+        "caption": [
+            "A bowl to the left of a armchair",
+            "A bowl on a armchair",
+            "A bowl under a armchair",
+            "A bowl to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bowl in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 12,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/mug_right_of_table.jpeg",
+        "caption": [
+            "A mug to the right of a table",
+            "A mug on a table",
+            "A mug under a table",
+            "A mug to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the mug in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 16,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/mug_on_table.jpeg",
+        "caption": [
+            "A mug on a table",
+            "A mug under a table",
+            "A mug to the left of a table",
+            "A mug to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the mug in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 18,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cup_on_armchair.jpeg",
+        "caption": [
+            "A cup on a armchair",
+            "A cup under a armchair",
+            "A cup to the left of a armchair",
+            "A cup to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the cup in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 19,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/shoes_left_of_chair.jpeg",
+        "caption": [
+            "A shoes to the left of a chair",
+            "A shoes on a chair",
+            "A shoes under a chair",
+            "A shoes to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the shoes in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 20,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/orange_right_of_chair.jpeg",
+        "caption": [
+            "A orange to the right of a chair",
+            "A orange on a chair",
+            "A orange under a chair",
+            "A orange to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the orange in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 21,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/helmet_right_of_table.jpeg",
+        "caption": [
+            "A helmet to the right of a table",
+            "A helmet on a table",
+            "A helmet under a table",
+            "A helmet to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the helmet in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 22,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/water-filter_right_of_chair.jpeg",
+        "caption": [
+            "A water filter to the right of a chair",
+            "A water filter on a chair",
+            "A water filter under a chair",
+            "A water filter to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the water filter in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 23,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/glove_left_of_armchair.jpeg",
+        "caption": [
+            "A glove to the left of a armchair",
+            "A glove on a armchair",
+            "A glove under a armchair",
+            "A glove to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the glove in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 24,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/dragonfruit_left_of_table.jpeg",
+        "caption": [
+            "A dragonfruit to the left of a table",
+            "A dragonfruit on a table",
+            "A dragonfruit under a table",
+            "A dragonfruit to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the dragonfruit in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 25,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/scarf_right_of_table.jpeg",
+        "caption": [
+            "A scarf to the right of a table",
+            "A scarf on a table",
+            "A scarf under a table",
+            "A scarf to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the scarf in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 26,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/water-filter_on_chair.jpeg",
+        "caption": [
+            "A water filter on a chair",
+            "A water filter under a chair",
+            "A water filter to the left of a chair",
+            "A water filter to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the water filter in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 27,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/dragonfruit_left_of_chair.jpeg",
+        "caption": [
+            "A dragonfruit to the left of a chair",
+            "A dragonfruit on a chair",
+            "A dragonfruit under a chair",
+            "A dragonfruit to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the dragonfruit in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 28,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/phone_left_of_table.jpeg",
+        "caption": [
+            "A phone to the left of a table",
+            "A phone on a table",
+            "A phone under a table",
+            "A phone to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the phone in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 29,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pan_on_chair.jpeg",
+        "caption": [
+            "A pan on a chair",
+            "A pan under a chair",
+            "A pan to the left of a chair",
+            "A pan to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pan in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 30,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cap_right_of_table.jpeg",
+        "caption": [
+            "A cap to the right of a table",
+            "A cap on a table",
+            "A cap under a table",
+            "A cap to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the cap in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 31,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/yarn_under_armchair.jpeg",
+        "caption": [
+            "A yarn under a armchair",
+            "A yarn on a armchair",
+            "A yarn to the left of a armchair",
+            "A yarn to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the yarn in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 33,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/banana_on_table.jpeg",
+        "caption": [
+            "A banana on a table",
+            "A banana under a table",
+            "A banana to the left of a table",
+            "A banana to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the banana in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 34,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/orange_on_armchair.jpeg",
+        "caption": [
+            "A orange on a armchair",
+            "A orange under a armchair",
+            "A orange to the left of a armchair",
+            "A orange to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the orange in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 35,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/rose_left_of_armchair.jpeg",
+        "caption": [
+            "A rose to the left of a armchair",
+            "A rose on a armchair",
+            "A rose under a armchair",
+            "A rose to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the rose in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 36,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/water-bottle_left_of_armchair.jpeg",
+        "caption": [
+            "A water bottle to the left of a armchair",
+            "A water bottle on a armchair",
+            "A water bottle under a armchair",
+            "A water bottle to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the water bottle in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 37,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lemon_left_of_table.jpeg",
+        "caption": [
+            "A lemon to the left of a table",
+            "A lemon on a table",
+            "A lemon under a table",
+            "A lemon to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the lemon in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 38,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bottle_left_of_armchair.jpeg",
+        "caption": [
+            "A bottle to the left of a armchair",
+            "A bottle on a armchair",
+            "A bottle under a armchair",
+            "A bottle to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bottle in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 39,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/plate_on_armchair.jpeg",
+        "caption": [
+            "A plate on a armchair",
+            "A plate under a armchair",
+            "A plate to the left of a armchair",
+            "A plate to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the plate in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 40,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/soda-can_left_of_armchair.jpeg",
+        "caption": [
+            "A soda can to the left of a armchair",
+            "A soda can on a armchair",
+            "A soda can under a armchair",
+            "A soda can to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the soda can in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 41,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/painting_under_table.jpeg",
+        "caption": [
+            "A painting under a table",
+            "A painting on a table",
+            "A painting to the left of a table",
+            "A painting to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the painting in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 42,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bottle-of-orange-juice_under_chair.jpeg",
+        "caption": [
+            "A bottle of orange juice under a chair",
+            "A bottle of orange juice on a chair",
+            "A bottle of orange juice to the left of a chair",
+            "A bottle of orange juice to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bottle of orange juice in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 43,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/wineglass_on_chair.jpeg",
+        "caption": [
+            "A wineglass on a chair",
+            "A wineglass under a chair",
+            "A wineglass to the left of a chair",
+            "A wineglass to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the wineglass in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 44,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/rose_under_armchair.jpeg",
+        "caption": [
+            "A rose under a armchair",
+            "A rose on a armchair",
+            "A rose to the left of a armchair",
+            "A rose to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the rose in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 45,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/spatula_on_chair.jpeg",
+        "caption": [
+            "A spatula on a chair",
+            "A spatula under a chair",
+            "A spatula to the left of a chair",
+            "A spatula to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the spatula in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 46,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/banana_under_table.jpeg",
+        "caption": [
+            "A banana under a table",
+            "A banana on a table",
+            "A banana to the left of a table",
+            "A banana to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the banana in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 47,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/mug_on_chair.jpeg",
+        "caption": [
+            "A mug on a chair",
+            "A mug under a chair",
+            "A mug to the left of a chair",
+            "A mug to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the mug in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 49,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/plant_left_of_chair.jpeg",
+        "caption": [
+            "A plant to the left of a chair",
+            "A plant on a chair",
+            "A plant under a chair",
+            "A plant to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the plant in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 50,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/blanket_on_chair.jpeg",
+        "caption": [
+            "A blanket on a chair",
+            "A blanket under a chair",
+            "A blanket to the left of a chair",
+            "A blanket to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the blanket in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 53,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/plate_right_of_table.jpeg",
+        "caption": [
+            "A plate to the right of a table",
+            "A plate on a table",
+            "A plate under a table",
+            "A plate to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the plate in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 54,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/dragonfruit_on_chair.jpeg",
+        "caption": [
+            "A dragonfruit on a chair",
+            "A dragonfruit under a chair",
+            "A dragonfruit to the left of a chair",
+            "A dragonfruit to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the dragonfruit in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 55,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bottle_right_of_armchair.jpeg",
+        "caption": [
+            "A bottle to the right of a armchair",
+            "A bottle on a armchair",
+            "A bottle under a armchair",
+            "A bottle to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bottle in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 56,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/orange_under_armchair.jpeg",
+        "caption": [
+            "A orange under a armchair",
+            "A orange on a armchair",
+            "A orange to the left of a armchair",
+            "A orange to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the orange in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 57,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/plate_right_of_chair.jpeg",
+        "caption": [
+            "A plate to the right of a chair",
+            "A plate on a chair",
+            "A plate under a chair",
+            "A plate to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the plate in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 58,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cup_under_armchair.jpeg",
+        "caption": [
+            "A cup under a armchair",
+            "A cup on a armchair",
+            "A cup to the left of a armchair",
+            "A cup to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the cup in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 59,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/apple_left_of_armchair.jpeg",
+        "caption": [
+            "A apple to the left of a armchair",
+            "A apple on a armchair",
+            "A apple under a armchair",
+            "A apple to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the apple in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 62,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/kettle_left_of_table.jpeg",
+        "caption": [
+            "A kettle to the left of a table",
+            "A kettle on a table",
+            "A kettle under a table",
+            "A kettle to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the kettle in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 63,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/can_under_armchair.jpeg",
+        "caption": [
+            "A can under a armchair",
+            "A can on a armchair",
+            "A can to the left of a armchair",
+            "A can to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the can in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 64,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/toilet-roll_left_of_chair.jpeg",
+        "caption": [
+            "A toilet roll to the left of a chair",
+            "A toilet roll on a chair",
+            "A toilet roll under a chair",
+            "A toilet roll to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the toilet roll in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 65,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/painting_left_of_table.jpeg",
+        "caption": [
+            "A painting to the left of a table",
+            "A painting on a table",
+            "A painting under a table",
+            "A painting to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the painting in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 66,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/painting_under_chair.jpeg",
+        "caption": [
+            "A painting under a chair",
+            "A painting on a chair",
+            "A painting to the left of a chair",
+            "A painting to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the painting in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 67,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/ball-of-yarn_right_of_table.jpeg",
+        "caption": [
+            "A ball of yarn to the right of a table",
+            "A ball of yarn on a table",
+            "A ball of yarn under a table",
+            "A ball of yarn to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the ball of yarn in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 69,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/knife_on_table.jpeg",
+        "caption": [
+            "A knife on a table",
+            "A knife under a table",
+            "A knife to the left of a table",
+            "A knife to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the knife in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 70,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/laptop_left_of_chair.jpeg",
+        "caption": [
+            "A laptop to the left of a chair",
+            "A laptop on a chair",
+            "A laptop under a chair",
+            "A laptop to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the laptop in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 71,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/kettle_left_of_chair.jpeg",
+        "caption": [
+            "A kettle to the left of a chair",
+            "A kettle on a chair",
+            "A kettle under a chair",
+            "A kettle to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the kettle in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 72,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/water-bottle_left_of_chair.jpeg",
+        "caption": [
+            "A water bottle to the left of a chair",
+            "A water bottle on a chair",
+            "A water bottle under a chair",
+            "A water bottle to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the water bottle in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 73,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cup_on_table.jpeg",
+        "caption": [
+            "A cup on a table",
+            "A cup under a table",
+            "A cup to the left of a table",
+            "A cup to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the cup in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 74,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/vase_on_chair.jpeg",
+        "caption": [
+            "A vase on a chair",
+            "A vase under a chair",
+            "A vase to the left of a chair",
+            "A vase to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the vase in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 75,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/water-filter_under_chair.jpeg",
+        "caption": [
+            "A water filter under a chair",
+            "A water filter on a chair",
+            "A water filter to the left of a chair",
+            "A water filter to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the water filter in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 76,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/hat_on_chair.jpeg",
+        "caption": [
+            "A hat on a chair",
+            "A hat under a chair",
+            "A hat to the left of a chair",
+            "A hat to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the hat in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 77,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lamp_on_chair.jpeg",
+        "caption": [
+            "A lamp on a chair",
+            "A lamp under a chair",
+            "A lamp to the left of a chair",
+            "A lamp to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the lamp in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 78,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/glasses_right_of_armchair.jpeg",
+        "caption": [
+            "A glasses to the right of a armchair",
+            "A glasses on a armchair",
+            "A glasses under a armchair",
+            "A glasses to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where are the glasses in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 79,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/scissors_under_chair.jpeg",
+        "caption": [
+            "A scissors under a chair",
+            "A scissors on a chair",
+            "A scissors to the left of a chair",
+            "A scissors to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the scissors in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 80,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/spatula_under_table.jpeg",
+        "caption": [
+            "A spatula under a table",
+            "A spatula on a table",
+            "A spatula to the left of a table",
+            "A spatula to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the spatula in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 81,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/microphone_on_chair.jpeg",
+        "caption": [
+            "A microphone on a chair",
+            "A microphone under a chair",
+            "A microphone to the left of a chair",
+            "A microphone to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the microphone in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 82,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/mug_left_of_armchair.jpeg",
+        "caption": [
+            "A mug to the left of a armchair",
+            "A mug on a armchair",
+            "A mug under a armchair",
+            "A mug to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the mug in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 83,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/yarn_on_armchair.jpeg",
+        "caption": [
+            "A yarn on a armchair",
+            "A yarn under a armchair",
+            "A yarn to the left of a armchair",
+            "A yarn to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the yarn in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 84,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/headphones_under_chair.jpeg",
+        "caption": [
+            "A headphones under a chair",
+            "A headphones on a chair",
+            "A headphones to the left of a chair",
+            "A headphones to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the headphones in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 85,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/painting_on_table.jpeg",
+        "caption": [
+            "A painting on a table",
+            "A painting under a table",
+            "A painting to the left of a table",
+            "A painting to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the painting in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 86,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/scarf_left_of_table.jpeg",
+        "caption": [
+            "A scarf to the left of a table",
+            "A scarf on a table",
+            "A scarf under a table",
+            "A scarf to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the scarf in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 87,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lemon_left_of_chair.jpeg",
+        "caption": [
+            "A lemon to the left of a chair",
+            "A lemon on a chair",
+            "A lemon under a chair",
+            "A lemon to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the lemon in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 88,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/photograph_left_of_chair.jpeg",
+        "caption": [
+            "A photograph to the left of a chair",
+            "A photograph on a chair",
+            "A photograph under a chair",
+            "A photograph to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the photograph in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 89,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/headphones_left_of_armchair.jpeg",
+        "caption": [
+            "A headphones to the left of a armchair",
+            "A headphones on a armchair",
+            "A headphones under a armchair",
+            "A headphones to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where are the headphones in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 90,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/can_on_chair.jpeg",
+        "caption": [
+            "A can on a chair",
+            "A can under a chair",
+            "A can to the left of a chair",
+            "A can to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the can in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 91,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pot_left_of_chair.jpeg",
+        "caption": [
+            "A pot to the left of a chair",
+            "A pot on a chair",
+            "A pot under a chair",
+            "A pot to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pot in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 92,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/sunglasses_on_chair.jpeg",
+        "caption": [
+            "A sunglasses on a chair",
+            "A sunglasses under a chair",
+            "A sunglasses to the left of a chair",
+            "A sunglasses to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the sunglasses in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 93,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/wineglass_on_armchair.jpeg",
+        "caption": [
+            "A wineglass on a armchair",
+            "A wineglass under a armchair",
+            "A wineglass to the left of a armchair",
+            "A wineglass to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the wineglass in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 94,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bottle_on_chair.jpeg",
+        "caption": [
+            "A bottle on a chair",
+            "A bottle under a chair",
+            "A bottle to the left of a chair",
+            "A bottle to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bottle in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 96,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cap_on_armchair.jpeg",
+        "caption": [
+            "A cap on a armchair",
+            "A cap under a armchair",
+            "A cap to the left of a armchair",
+            "A cap to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the cap in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 98,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/scissors_right_of_chair.jpeg",
+        "caption": [
+            "A scissors to the right of a chair",
+            "A scissors on a chair",
+            "A scissors under a chair",
+            "A scissors to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the scissors in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 99,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lamp_left_of_table.jpeg",
+        "caption": [
+            "A lamp to the left of a table",
+            "A lamp on a table",
+            "A lamp under a table",
+            "A lamp to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the lamp in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 100,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/ball-of-yarn_left_of_table.jpeg",
+        "caption": [
+            "A ball of yarn to the left of a table",
+            "A ball of yarn on a table",
+            "A ball of yarn under a table",
+            "A ball of yarn to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the ball of yarn in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 101,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/toilet-roll_on_chair.jpeg",
+        "caption": [
+            "A toilet roll on a chair",
+            "A toilet roll under a chair",
+            "A toilet roll to the left of a chair",
+            "A toilet roll to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the toilet roll in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 102,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/scissors_left_of_chair.jpeg",
+        "caption": [
+            "A scissors to the left of a chair",
+            "A scissors on a chair",
+            "A scissors under a chair",
+            "A scissors to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the scissors in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 103,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/dragonfruit_right_of_chair.jpeg",
+        "caption": [
+            "A dragonfruit to the right of a chair",
+            "A dragonfruit on a chair",
+            "A dragonfruit under a chair",
+            "A dragonfruit to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the dragonfruit in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 104,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pot_right_of_chair.jpeg",
+        "caption": [
+            "A pot to the right of a chair",
+            "A pot on a chair",
+            "A pot under a chair",
+            "A pot to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pot in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 105,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/scarf_left_of_chair.jpeg",
+        "caption": [
+            "A scarf to the left of a chair",
+            "A scarf on a chair",
+            "A scarf under a chair",
+            "A scarf to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the scarf in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 106,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/knife_left_of_table.jpeg",
+        "caption": [
+            "A knife to the left of a table",
+            "A knife on a table",
+            "A knife under a table",
+            "A knife to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the knife in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 108,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/wineglass_right_of_chair.jpeg",
+        "caption": [
+            "A wineglass to the right of a chair",
+            "A wineglass on a chair",
+            "A wineglass under a chair",
+            "A wineglass to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the wineglass in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 109,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lemon_right_of_chair.jpeg",
+        "caption": [
+            "A lemon to the right of a chair",
+            "A lemon on a chair",
+            "A lemon under a chair",
+            "A lemon to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the lemon in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 111,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/hat_left_of_chair.jpeg",
+        "caption": [
+            "A hat to the left of a chair",
+            "A hat on a chair",
+            "A hat under a chair",
+            "A hat to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the hat in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 114,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/blanket_right_of_chair.jpeg",
+        "caption": [
+            "A blanket to the right of a chair",
+            "A blanket on a chair",
+            "A blanket under a chair",
+            "A blanket to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the blanket in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 115,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/glasses_under_armchair.jpeg",
+        "caption": [
+            "A glasses under a armchair",
+            "A glasses on a armchair",
+            "A glasses to the left of a armchair",
+            "A glasses to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where are the glasses in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 116,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/toy-cactus_under_chair.jpeg",
+        "caption": [
+            "A toy cactus under a chair",
+            "A toy cactus on a chair",
+            "A toy cactus to the left of a chair",
+            "A toy cactus to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the toy cactus in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 120,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/banana_left_of_chair.jpeg",
+        "caption": [
+            "A banana to the left of a chair",
+            "A banana on a chair",
+            "A banana under a chair",
+            "A banana to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the banana in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 121,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/wineglass_right_of_armchair.jpeg",
+        "caption": [
+            "A wineglass to the right of a armchair",
+            "A wineglass on a armchair",
+            "A wineglass under a armchair",
+            "A wineglass to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the wineglass in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 122,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/yarn_left_of_armchair.jpeg",
+        "caption": [
+            "A yarn to the left of a armchair",
+            "A yarn on a armchair",
+            "A yarn under a armchair",
+            "A yarn to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the yarn in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 123,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/book_under_chair.jpeg",
+        "caption": [
+            "A book under a chair",
+            "A book on a chair",
+            "A book to the left of a chair",
+            "A book to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the book in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 125,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/wineglass_under_chair.jpeg",
+        "caption": [
+            "A wineglass under a chair",
+            "A wineglass on a chair",
+            "A wineglass to the left of a chair",
+            "A wineglass to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the wineglass in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 126,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/toy-cactus_on_chair.jpeg",
+        "caption": [
+            "A toy cactus on a chair",
+            "A toy cactus under a chair",
+            "A toy cactus to the left of a chair",
+            "A toy cactus to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the toy cactus in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 127,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/plate_left_of_chair.jpeg",
+        "caption": [
+            "A plate to the left of a chair",
+            "A plate on a chair",
+            "A plate under a chair",
+            "A plate to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the plate in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 128,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/knife_right_of_chair.jpeg",
+        "caption": [
+            "A knife to the right of a chair",
+            "A knife on a chair",
+            "A knife under a chair",
+            "A knife to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the knife in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 129,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/knife_right_of_table.jpeg",
+        "caption": [
+            "A knife to the right of a table",
+            "A knife on a table",
+            "A knife under a table",
+            "A knife to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the knife in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 131,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/glove_right_of_armchair.jpeg",
+        "caption": [
+            "A glove to the right of a armchair",
+            "A glove on a armchair",
+            "A glove under a armchair",
+            "A glove to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the glove in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 132,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bottle-of-orange-juice_left_of_chair.jpeg",
+        "caption": [
+            "A bottle of orange juice to the left of a chair",
+            "A bottle of orange juice on a chair",
+            "A bottle of orange juice under a chair",
+            "A bottle of orange juice to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bottle of orange juice in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 133,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/dragonfruit_under_chair.jpeg",
+        "caption": [
+            "A dragonfruit under a chair",
+            "A dragonfruit on a chair",
+            "A dragonfruit to the left of a chair",
+            "A dragonfruit to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the dragonfruit in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 134,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/sunglasses_under_chair.jpeg",
+        "caption": [
+            "A sunglasses under a chair",
+            "A sunglasses on a chair",
+            "A sunglasses to the left of a chair",
+            "A sunglasses to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the sunglasses in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 135,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/shoes_right_of_chair.jpeg",
+        "caption": [
+            "A shoes to the right of a chair",
+            "A shoes on a chair",
+            "A shoes under a chair",
+            "A shoes to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the shoes in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 137,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/headphones_under_armchair.jpeg",
+        "caption": [
+            "A headphones under a armchair",
+            "A headphones on a armchair",
+            "A headphones to the left of a armchair",
+            "A headphones to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where are the headphones in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 138,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/beer-bottle_on_chair.jpeg",
+        "caption": [
+            "A beer bottle on a chair",
+            "A beer bottle under a chair",
+            "A beer bottle to the left of a chair",
+            "A beer bottle to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the beer bottle in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 139,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/phone_right_of_table.jpeg",
+        "caption": [
+            "A phone to the right of a table",
+            "A phone on a table",
+            "A phone under a table",
+            "A phone to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the phone in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 140,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/photograph_under_chair.jpeg",
+        "caption": [
+            "A photograph under a chair",
+            "A photograph on a chair",
+            "A photograph to the left of a chair",
+            "A photograph to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the photograph in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 141,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lemon_on_table.jpeg",
+        "caption": [
+            "A lemon on a table",
+            "A lemon under a table",
+            "A lemon to the left of a table",
+            "A lemon to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the lemon in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 142,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/phone_left_of_armchair.jpeg",
+        "caption": [
+            "A phone to the left of a armchair",
+            "A phone on a armchair",
+            "A phone under a armchair",
+            "A phone to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the phone in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 143,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/soda-can_right_of_armchair.jpeg",
+        "caption": [
+            "A soda can to the right of a armchair",
+            "A soda can on a armchair",
+            "A soda can under a armchair",
+            "A soda can to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the soda can in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 144,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/banana_left_of_table.jpeg",
+        "caption": [
+            "A banana to the left of a table",
+            "A banana on a table",
+            "A banana under a table",
+            "A banana to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the banana in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 146,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pan_on_armchair.jpeg",
+        "caption": [
+            "A pan on a armchair",
+            "A pan under a armchair",
+            "A pan to the left of a armchair",
+            "A pan to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pan in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 147,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cap_right_of_chair.jpeg",
+        "caption": [
+            "A cap to the right of a chair",
+            "A cap on a chair",
+            "A cap under a chair",
+            "A cap to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the cap in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 149,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/can_on_armchair.jpeg",
+        "caption": [
+            "A can on a armchair",
+            "A can under a armchair",
+            "A can to the left of a armchair",
+            "A can to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the can in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 150,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/helmet_left_of_chair.jpeg",
+        "caption": [
+            "A helmet to the left of a chair",
+            "A helmet on a chair",
+            "A helmet under a chair",
+            "A helmet to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the helmet in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 152,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/mug_under_chair.jpeg",
+        "caption": [
+            "A mug under a chair",
+            "A mug on a chair",
+            "A mug to the left of a chair",
+            "A mug to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the mug in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 153,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/kettle_under_chair.jpeg",
+        "caption": [
+            "A kettle under a chair",
+            "A kettle on a chair",
+            "A kettle to the left of a chair",
+            "A kettle to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the kettle in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 154,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cap_under_table.jpeg",
+        "caption": [
+            "A cap under a table",
+            "A cap on a table",
+            "A cap to the left of a table",
+            "A cap to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the cap in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 156,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/yarn_right_of_armchair.jpeg",
+        "caption": [
+            "A yarn to the right of a armchair",
+            "A yarn on a armchair",
+            "A yarn under a armchair",
+            "A yarn to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the yarn in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 157,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/mug_right_of_chair.jpeg",
+        "caption": [
+            "A mug to the right of a chair",
+            "A mug on a chair",
+            "A mug under a chair",
+            "A mug to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the mug in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 158,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pot_under_chair.jpeg",
+        "caption": [
+            "A pot under a chair",
+            "A pot on a chair",
+            "A pot to the left of a chair",
+            "A pot to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pot in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 159,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lemon_under_table.jpeg",
+        "caption": [
+            "A lemon under a table",
+            "A lemon on a table",
+            "A lemon to the left of a table",
+            "A lemon to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the lemon in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 160,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/glass_right_of_armchair.jpeg",
+        "caption": [
+            "A glass to the right of a armchair",
+            "A glass on a armchair",
+            "A glass under a armchair",
+            "A glass to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the glass in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 161,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bottle_left_of_table.jpeg",
+        "caption": [
+            "A bottle to the left of a table",
+            "A bottle on a table",
+            "A bottle under a table",
+            "A bottle to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the bottle in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 163,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/toilet-roll_right_of_chair.jpeg",
+        "caption": [
+            "A toilet roll to the right of a chair",
+            "A toilet roll on a chair",
+            "A toilet roll under a chair",
+            "A toilet roll to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the toilet roll in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 164,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bowl_on_table.jpeg",
+        "caption": [
+            "A bowl on a table",
+            "A bowl under a table",
+            "A bowl to the left of a table",
+            "A bowl to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the bowl in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 165,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lamp_under_table.jpeg",
+        "caption": [
+            "A lamp under a table",
+            "A lamp on a table",
+            "A lamp to the left of a table",
+            "A lamp to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the lamp in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 166,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/laptop_on_armchair.jpeg",
+        "caption": [
+            "A laptop on a armchair",
+            "A laptop under a armchair",
+            "A laptop to the left of a armchair",
+            "A laptop to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the laptop in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 167,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/wineglass_left_of_table.jpeg",
+        "caption": [
+            "A wineglass to the left of a table",
+            "A wineglass on a table",
+            "A wineglass under a table",
+            "A wineglass to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the wineglass in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 168,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/phone_on_armchair.jpeg",
+        "caption": [
+            "A phone on a armchair",
+            "A phone under a armchair",
+            "A phone to the left of a armchair",
+            "A phone to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the phone in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 169,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/phone_under_table.jpeg",
+        "caption": [
+            "A phone under a table",
+            "A phone on a table",
+            "A phone to the left of a table",
+            "A phone to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the phone in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 171,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/banana_on_chair.jpeg",
+        "caption": [
+            "A banana on a chair",
+            "A banana under a chair",
+            "A banana to the left of a chair",
+            "A banana to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the banana in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 172,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/wineglass_right_of_table.jpeg",
+        "caption": [
+            "A wineglass to the right of a table",
+            "A wineglass on a table",
+            "A wineglass under a table",
+            "A wineglass to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the wineglass in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 173,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/vase_under_chair.jpeg",
+        "caption": [
+            "A vase under a chair",
+            "A vase on a chair",
+            "A vase to the left of a chair",
+            "A vase to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the vase in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 174,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/laptop_under_chair.jpeg",
+        "caption": [
+            "A laptop under a chair",
+            "A laptop on a chair",
+            "A laptop to the left of a chair",
+            "A laptop to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the laptop in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 175,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bowl_left_of_chair.jpeg",
+        "caption": [
+            "A bowl to the left of a chair",
+            "A bowl on a chair",
+            "A bowl under a chair",
+            "A bowl to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bowl in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 177,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pillow_under_chair.jpeg",
+        "caption": [
+            "A pillow under a chair",
+            "A pillow on a chair",
+            "A pillow to the left of a chair",
+            "A pillow to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pillow in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 178,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bowl_under_chair.jpeg",
+        "caption": [
+            "A bowl under a chair",
+            "A bowl on a chair",
+            "A bowl to the left of a chair",
+            "A bowl to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bowl in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 179,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/dog_left_of_table.jpeg",
+        "caption": [
+            "A dog to the left of a table",
+            "A dog on a table",
+            "A dog under a table",
+            "A dog to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the dog in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 180,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pillow_left_of_chair.jpeg",
+        "caption": [
+            "A pillow to the left of a chair",
+            "A pillow on a chair",
+            "A pillow under a chair",
+            "A pillow to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pillow in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 181,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pan_left_of_armchair.jpeg",
+        "caption": [
+            "A pan to the left of a armchair",
+            "A pan on a armchair",
+            "A pan under a armchair",
+            "A pan to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pan in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 182,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/plant_under_table.jpeg",
+        "caption": [
+            "A plant under a table",
+            "A plant on a table",
+            "A plant to the left of a table",
+            "A plant to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the plant in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 183,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/glass_under_armchair.jpeg",
+        "caption": [
+            "A glass under a armchair",
+            "A glass on a armchair",
+            "A glass to the left of a armchair",
+            "A glass to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the glass in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 184,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/box_under_chair.jpeg",
+        "caption": [
+            "A box under a chair",
+            "A box on a chair",
+            "A box to the left of a chair",
+            "A box to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the box in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 185,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/dog_right_of_table.jpeg",
+        "caption": [
+            "A dog to the right of a table",
+            "A dog on a table",
+            "A dog under a table",
+            "A dog to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the dog in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 186,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cup_left_of_table.jpeg",
+        "caption": [
+            "A cup to the left of a table",
+            "A cup on a table",
+            "A cup under a table",
+            "A cup to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the cup in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 187,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/book_right_of_table.jpeg",
+        "caption": [
+            "A book to the right of a table",
+            "A book on a table",
+            "A book under a table",
+            "A book to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the book in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 188,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lemon_right_of_table.jpeg",
+        "caption": [
+            "A lemon to the right of a table",
+            "A lemon on a table",
+            "A lemon under a table",
+            "A lemon to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the lemon in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 189,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/microphone_under_chair.jpeg",
+        "caption": [
+            "A microphone under a chair",
+            "A microphone on a chair",
+            "A microphone to the left of a chair",
+            "A microphone to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the microphone in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 190,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/sunglasses_under_armchair.jpeg",
+        "caption": [
+            "A sunglasses under a armchair",
+            "A sunglasses on a armchair",
+            "A sunglasses to the left of a armchair",
+            "A sunglasses to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where are the sunglasses in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 191,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/water-bottle_on_chair.jpeg",
+        "caption": [
+            "A water bottle on a chair",
+            "A water bottle under a chair",
+            "A water bottle to the left of a chair",
+            "A water bottle to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the water bottle in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 192,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/helmet_right_of_chair.jpeg",
+        "caption": [
+            "A helmet to the right of a chair",
+            "A helmet on a chair",
+            "A helmet under a chair",
+            "A helmet to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the helmet in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 193,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cap_left_of_table.jpeg",
+        "caption": [
+            "A cap to the left of a table",
+            "A cap on a table",
+            "A cap under a table",
+            "A cap to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the cap in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 196,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pillow_under_armchair.jpeg",
+        "caption": [
+            "A pillow under a armchair",
+            "A pillow on a armchair",
+            "A pillow to the left of a armchair",
+            "A pillow to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pillow in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 197,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/banjo_right_of_armchair.jpeg",
+        "caption": [
+            "A banjo to the right of a armchair",
+            "A banjo on a armchair",
+            "A banjo under a armchair",
+            "A banjo to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the banjo in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 198,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/water-bottle_right_of_chair.jpeg",
+        "caption": [
+            "A water bottle to the right of a chair",
+            "A water bottle on a chair",
+            "A water bottle under a chair",
+            "A water bottle to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the water bottle in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 200,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/ball-of-yarn_left_of_chair.jpeg",
+        "caption": [
+            "A ball of yarn to the left of a chair",
+            "A ball of yarn on a chair",
+            "A ball of yarn under a chair",
+            "A ball of yarn to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the ball of yarn in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 202,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cup_right_of_armchair.jpeg",
+        "caption": [
+            "A cup to the right of a armchair",
+            "A cup on a armchair",
+            "A cup under a armchair",
+            "A cup to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the cup in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 203,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/sunglasses_under_table.jpeg",
+        "caption": [
+            "A sunglasses under a table",
+            "A sunglasses on a table",
+            "A sunglasses to the left of a table",
+            "A sunglasses to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where are the sunglasses in relation to the table? Answer with left, right, on, or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 204,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pillow_on_chair.jpeg",
+        "caption": [
+            "A pillow on a chair",
+            "A pillow under a chair",
+            "A pillow to the left of a chair",
+            "A pillow to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pillow in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 205,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pan_under_chair.jpeg",
+        "caption": [
+            "A pan under a chair",
+            "A pan on a chair",
+            "A pan to the left of a chair",
+            "A pan to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pan in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 207,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/book_under_armchair.jpeg",
+        "caption": [
+            "A book under a armchair",
+            "A book on a armchair",
+            "A book to the left of a armchair",
+            "A book to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the book in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 208,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/soda-can_under_armchair.jpeg",
+        "caption": [
+            "A soda can under a armchair",
+            "A soda can on a armchair",
+            "A soda can to the left of a armchair",
+            "A soda can to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the soda can in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 209,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/book_left_of_table.jpeg",
+        "caption": [
+            "A book to the left of a table",
+            "A book on a table",
+            "A book under a table",
+            "A book to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the book in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 210,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lamp_on_table.jpeg",
+        "caption": [
+            "A lamp on a table",
+            "A lamp under a table",
+            "A lamp to the left of a table",
+            "A lamp to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the lamp in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 211,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/scarf_on_chair.jpeg",
+        "caption": [
+            "A scarf on a chair",
+            "A scarf under a chair",
+            "A scarf to the left of a chair",
+            "A scarf to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the scarf in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 212,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/water-filter_left_of_chair.jpeg",
+        "caption": [
+            "A water filter to the left of a chair",
+            "A water filter on a chair",
+            "A water filter under a chair",
+            "A water filter to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the water filter in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 214,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/beer-bottle_under_chair.jpeg",
+        "caption": [
+            "A beer bottle under a chair",
+            "A beer bottle on a chair",
+            "A beer bottle to the left of a chair",
+            "A beer bottle to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the beer bottle in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 215,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/scissors_right_of_table.jpeg",
+        "caption": [
+            "A scissors to the right of a table",
+            "A scissors on a table",
+            "A scissors under a table",
+            "A scissors to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where are the scissors in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 217,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cup_on_chair.jpeg",
+        "caption": [
+            "A cup on a chair",
+            "A cup under a chair",
+            "A cup to the left of a chair",
+            "A cup to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the cup in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 218,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/book_on_table.jpeg",
+        "caption": [
+            "A book on a table",
+            "A book under a table",
+            "A book to the left of a table",
+            "A book to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the book in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 219,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/headphones_left_of_chair.jpeg",
+        "caption": [
+            "A headphones to the left of a chair",
+            "A headphones on a chair",
+            "A headphones under a chair",
+            "A headphones to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the headphones in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 220,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/remote_left_of_chair.jpeg",
+        "caption": [
+            "A remote to the left of a chair",
+            "A remote on a chair",
+            "A remote under a chair",
+            "A remote to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the remote in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 222,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lamp_right_of_chair.jpeg",
+        "caption": [
+            "A lamp to the right of a chair",
+            "A lamp on a chair",
+            "A lamp under a chair",
+            "A lamp to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the lamp in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 223,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/plate_left_of_armchair.jpeg",
+        "caption": [
+            "A plate to the left of a armchair",
+            "A plate on a armchair",
+            "A plate under a armchair",
+            "A plate to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the plate in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 225,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/orange_on_chair.jpeg",
+        "caption": [
+            "A orange on a chair",
+            "A orange under a chair",
+            "A orange to the left of a chair",
+            "A orange to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the orange in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 226,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/toy-cactus_left_of_chair.jpeg",
+        "caption": [
+            "A toy cactus to the left of a chair",
+            "A toy cactus on a chair",
+            "A toy cactus under a chair",
+            "A toy cactus to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the toy cactus in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 227,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/can_right_of_armchair.jpeg",
+        "caption": [
+            "A can to the right of a armchair",
+            "A can on a armchair",
+            "A can under a armchair",
+            "A can to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the can in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 229,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/box_left_of_chair.jpeg",
+        "caption": [
+            "A box to the left of a chair",
+            "A box on a chair",
+            "A box under a chair",
+            "A box to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the box in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 231,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cap_on_table.jpeg",
+        "caption": [
+            "A cap on a table",
+            "A cap under a table",
+            "A cap to the left of a table",
+            "A cap to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the cap in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 232,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/tape_under_armchair.jpeg",
+        "caption": [
+            "A tape under a armchair",
+            "A tape on a armchair",
+            "A tape to the left of a armchair",
+            "A tape to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the tape in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 233,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/headphones_on_armchair.jpeg",
+        "caption": [
+            "A headphones on a armchair",
+            "A headphones under a armchair",
+            "A headphones to the left of a armchair",
+            "A headphones to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where are the headphones in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 234,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/helmet_under_chair.jpeg",
+        "caption": [
+            "A helmet under a chair",
+            "A helmet on a chair",
+            "A helmet to the left of a chair",
+            "A helmet to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the helmet in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 236,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/apple_on_armchair.jpeg",
+        "caption": [
+            "A apple on a armchair",
+            "A apple under a armchair",
+            "A apple to the left of a armchair",
+            "A apple to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the apple in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 237,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/knife_left_of_chair.jpeg",
+        "caption": [
+            "A knife to the left of a chair",
+            "A knife on a chair",
+            "A knife under a chair",
+            "A knife to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the knife in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 238,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/ball-of-yarn_on_chair.jpeg",
+        "caption": [
+            "A ball of yarn on a chair",
+            "A ball of yarn under a chair",
+            "A ball of yarn to the left of a chair",
+            "A ball of yarn to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the ball of yarn in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 239,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/helmet_left_of_table.jpeg",
+        "caption": [
+            "A helmet to the left of a table",
+            "A helmet on a table",
+            "A helmet under a table",
+            "A helmet to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the helmet in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 240,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/phone_on_table.jpeg",
+        "caption": [
+            "A phone on a table",
+            "A phone under a table",
+            "A phone to the left of a table",
+            "A phone to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the phone in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 242,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/can_right_of_chair.jpeg",
+        "caption": [
+            "A can to the right of a chair",
+            "A can on a chair",
+            "A can under a chair",
+            "A can to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the can in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 243,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/mug_left_of_chair.jpeg",
+        "caption": [
+            "A mug to the left of a chair",
+            "A mug on a chair",
+            "A mug under a chair",
+            "A mug to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the mug in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 244,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/wineglass_left_of_chair.jpeg",
+        "caption": [
+            "A wineglass to the left of a chair",
+            "A wineglass on a chair",
+            "A wineglass under a chair",
+            "A wineglass to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the wineglass in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 246,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/toilet-roll_under_table.jpeg",
+        "caption": [
+            "A toilet roll under a table",
+            "A toilet roll on a table",
+            "A toilet roll to the left of a table",
+            "A toilet roll to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the toilet roll in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 247,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/book_right_of_chair.jpeg",
+        "caption": [
+            "A book to the right of a chair",
+            "A book on a chair",
+            "A book under a chair",
+            "A book to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the book in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 248,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/painting_right_of_chair.jpeg",
+        "caption": [
+            "A painting to the right of a chair",
+            "A painting on a chair",
+            "A painting under a chair",
+            "A painting to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the painting in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 250,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/ball-of-yarn_right_of_chair.jpeg",
+        "caption": [
+            "A ball of yarn to the right of a chair",
+            "A ball of yarn on a chair",
+            "A ball of yarn under a chair",
+            "A ball of yarn to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the ball of yarn in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 251,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/painting_left_of_chair.jpeg",
+        "caption": [
+            "A painting to the left of a chair",
+            "A painting on a chair",
+            "A painting under a chair",
+            "A painting to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the painting in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 252,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/plant_under_chair.jpeg",
+        "caption": [
+            "A plant under a chair",
+            "A plant on a chair",
+            "A plant to the left of a chair",
+            "A plant to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the plant in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 254,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/glove_under_armchair.jpeg",
+        "caption": [
+            "A glove under a armchair",
+            "A glove on a armchair",
+            "A glove to the left of a armchair",
+            "A glove to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the glove in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 257,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cap_left_of_chair.jpeg",
+        "caption": [
+            "A cap to the left of a chair",
+            "A cap on a chair",
+            "A cap under a chair",
+            "A cap to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the cap in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 260,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/water-bottle_on_armchair.jpeg",
+        "caption": [
+            "A water bottle on a armchair",
+            "A water bottle under a armchair",
+            "A water bottle to the left of a armchair",
+            "A water bottle to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the water bottle in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 261,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cup_under_table.jpeg",
+        "caption": [
+            "A cup under a table",
+            "A cup on a table",
+            "A cup to the left of a table",
+            "A cup to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the cup in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 262,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/oven-mitt_left_of_chair.jpeg",
+        "caption": [
+            "A oven mitt to the left of a chair",
+            "A oven mitt on a chair",
+            "A oven mitt under a chair",
+            "A oven mitt to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the oven mitt in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 263,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pillow_on_table.jpeg",
+        "caption": [
+            "A pillow on a table",
+            "A pillow under a table",
+            "A pillow to the left of a table",
+            "A pillow to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the pillow in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 264,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/kettle_on_chair.jpeg",
+        "caption": [
+            "A kettle on a chair",
+            "A kettle under a chair",
+            "A kettle to the left of a chair",
+            "A kettle to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the kettle in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 265,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/kettle_on_table.jpeg",
+        "caption": [
+            "A kettle on a table",
+            "A kettle under a table",
+            "A kettle to the left of a table",
+            "A kettle to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the kettle in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 266,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pillow_under_table.jpeg",
+        "caption": [
+            "A pillow under a table",
+            "A pillow on a table",
+            "A pillow to the left of a table",
+            "A pillow to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the pillow in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 267,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/vase_right_of_chair.jpeg",
+        "caption": [
+            "A vase to the right of a chair",
+            "A vase on a chair",
+            "A vase under a chair",
+            "A vase to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the vase in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 268,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/spatula_left_of_chair.jpeg",
+        "caption": [
+            "A spatula to the left of a chair",
+            "A spatula on a chair",
+            "A spatula under a chair",
+            "A spatula to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the spatula in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 269,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/banana_right_of_table.jpeg",
+        "caption": [
+            "A banana to the right of a table",
+            "A banana on a table",
+            "A banana under a table",
+            "A banana to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the banana in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 271,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/scissors_under_table.jpeg",
+        "caption": [
+            "A scissors under a table",
+            "A scissors on a table",
+            "A scissors to the left of a table",
+            "A scissors to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where are the scissors in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 272,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/notepad_on_armchair.jpeg",
+        "caption": [
+            "A notepad on a armchair",
+            "A notepad under a armchair",
+            "A notepad to the left of a armchair",
+            "A notepad to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the notepad in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 273,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/spatula_on_table.jpeg",
+        "caption": [
+            "A spatula on a table",
+            "A spatula under a table",
+            "A spatula to the left of a table",
+            "A spatula to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the spatula in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 274,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/spatula_left_of_table.jpeg",
+        "caption": [
+            "A spatula to the left of a table",
+            "A spatula on a table",
+            "A spatula under a table",
+            "A spatula to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the spatula in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 275,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bottle-of-mustard_right_of_chair.jpeg",
+        "caption": [
+            "A bottle of mustard to the right of a chair",
+            "A bottle of mustard on a chair",
+            "A bottle of mustard under a chair",
+            "A bottle of mustard to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bottle of mustard in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 276,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pillow_right_of_chair.jpeg",
+        "caption": [
+            "A pillow to the right of a chair",
+            "A pillow on a chair",
+            "A pillow under a chair",
+            "A pillow to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pillow in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 278,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/beer-bottle_right_of_armchair.jpeg",
+        "caption": [
+            "A beer bottle to the right of a armchair",
+            "A beer bottle on a armchair",
+            "A beer bottle under a armchair",
+            "A beer bottle to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the beer bottle in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 279,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lemon_on_chair.jpeg",
+        "caption": [
+            "A lemon on a chair",
+            "A lemon under a chair",
+            "A lemon to the left of a chair",
+            "A lemon to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the lemon in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 280,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/plant_left_of_table.jpeg",
+        "caption": [
+            "A plant to the left of a table",
+            "A plant on a table",
+            "A plant under a table",
+            "A plant to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the plant in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 281,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/water-bottle_right_of_armchair.jpeg",
+        "caption": [
+            "A water bottle to the right of a armchair",
+            "A water bottle on a armchair",
+            "A water bottle under a armchair",
+            "A water bottle to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the water bottle in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 282,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/helmet_on_table.jpeg",
+        "caption": [
+            "A helmet on a table",
+            "A helmet under a table",
+            "A helmet to the left of a table",
+            "A helmet to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the helmet in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 285,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/toilet-roll_under_chair.jpeg",
+        "caption": [
+            "A toilet roll under a chair",
+            "A toilet roll on a chair",
+            "A toilet roll to the left of a chair",
+            "A toilet roll to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the toilet roll in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 286,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/box_on_chair.jpeg",
+        "caption": [
+            "A box on a chair",
+            "A box under a chair",
+            "A box to the left of a chair",
+            "A box to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the box in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 287,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/ball-of-yarn_on_table.jpeg",
+        "caption": [
+            "A ball of yarn on a table",
+            "A ball of yarn under a table",
+            "A ball of yarn to the left of a table",
+            "A ball of yarn to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the ball of yarn in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 288,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/mug_left_of_table.jpeg",
+        "caption": [
+            "A mug to the left of a table",
+            "A mug on a table",
+            "A mug under a table",
+            "A mug to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the mug in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 289,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/kettle_right_of_chair.jpeg",
+        "caption": [
+            "A kettle to the right of a chair",
+            "A kettle on a chair",
+            "A kettle under a chair",
+            "A kettle to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the kettle in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 290,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/banana_under_chair.jpeg",
+        "caption": [
+            "A banana under a chair",
+            "A banana on a chair",
+            "A banana to the left of a chair",
+            "A banana to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the banana in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 292,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/blanket_under_chair.jpeg",
+        "caption": [
+            "A blanket under a chair",
+            "A blanket on a chair",
+            "A blanket to the left of a chair",
+            "A blanket to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the blanket in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 293,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/spatula_right_of_chair.jpeg",
+        "caption": [
+            "A spatula to the right of a chair",
+            "A spatula on a chair",
+            "A spatula under a chair",
+            "A spatula to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the spatula in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 294,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pillow_right_of_table.jpeg",
+        "caption": [
+            "A pillow to the right of a table",
+            "A pillow on a table",
+            "A pillow under a table",
+            "A pillow to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the pillow in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 295,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/blanket_left_of_chair.jpeg",
+        "caption": [
+            "A blanket to the left of a chair",
+            "A blanket on a chair",
+            "A blanket under a chair",
+            "A blanket to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the blanket in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 296,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/remote_under_chair.jpeg",
+        "caption": [
+            "A remote under a chair",
+            "A remote on a chair",
+            "A remote to the left of a chair",
+            "A remote to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the remote in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 297,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bread_on_armchair.jpeg",
+        "caption": [
+            "A bread on a armchair",
+            "A bread under a armchair",
+            "A bread to the left of a armchair",
+            "A bread to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bread in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 298,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cap_on_chair.jpeg",
+        "caption": [
+            "A cap on a chair",
+            "A cap under a chair",
+            "A cap to the left of a chair",
+            "A cap to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the cap in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 299,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/microphone_left_of_chair.jpeg",
+        "caption": [
+            "A microphone to the left of a chair",
+            "A microphone on a chair",
+            "A microphone under a chair",
+            "A microphone to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the microphone in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 303,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bread_left_of_armchair.jpeg",
+        "caption": [
+            "A bread to the left of a armchair",
+            "A bread on a armchair",
+            "A bread under a armchair",
+            "A bread to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bread in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 304,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/dragonfruit_right_of_table.jpeg",
+        "caption": [
+            "A dragonfruit to the right of a table",
+            "A dragonfruit on a table",
+            "A dragonfruit under a table",
+            "A dragonfruit to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the dragonfruit in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 305,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/tape_right_of_armchair.jpeg",
+        "caption": [
+            "A tape to the right of a armchair",
+            "A tape on a armchair",
+            "A tape under a armchair",
+            "A tape to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the tape in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 306,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/glass_left_of_armchair.jpeg",
+        "caption": [
+            "A glass to the left of a armchair",
+            "A glass on a armchair",
+            "A glass under a armchair",
+            "A glass to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the glass in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 307,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cup_under_chair.jpeg",
+        "caption": [
+            "A cup under a chair",
+            "A cup on a chair",
+            "A cup to the left of a chair",
+            "A cup to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the cup in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 308,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/rose_right_of_armchair.jpeg",
+        "caption": [
+            "A rose to the right of a armchair",
+            "A rose on a armchair",
+            "A rose under a armchair",
+            "A rose to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the rose in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 309,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/sunglasses_right_of_chair.jpeg",
+        "caption": [
+            "A sunglasses to the right of a chair",
+            "A sunglasses on a chair",
+            "A sunglasses under a chair",
+            "A sunglasses to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the sunglasses in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 310,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/notepad_under_armchair.jpeg",
+        "caption": [
+            "A notepad under a armchair",
+            "A notepad on a armchair",
+            "A notepad to the left of a armchair",
+            "A notepad to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the notepad in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 312,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bottle_on_armchair.jpeg",
+        "caption": [
+            "A bottle on a armchair",
+            "A bottle under a armchair",
+            "A bottle to the left of a armchair",
+            "A bottle to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bottle in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 313,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/orange_on_table.jpeg",
+        "caption": [
+            "A orange on a table",
+            "A orange under a table",
+            "A orange to the left of a table",
+            "A orange to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the orange in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 314,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/laptop_right_of_armchair.jpeg",
+        "caption": [
+            "A laptop to the right of a armchair",
+            "A laptop on a armchair",
+            "A laptop under a armchair",
+            "A laptop to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the laptop in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 315,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/glasses_on_armchair.jpeg",
+        "caption": [
+            "A glasses on a armchair",
+            "A glasses under a armchair",
+            "A glasses to the left of a armchair",
+            "A glasses to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where are the glasses in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 316,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lamp_right_of_table.jpeg",
+        "caption": [
+            "A lamp to the right of a table",
+            "A lamp on a table",
+            "A lamp under a table",
+            "A lamp to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the lamp in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 317,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/apple_right_of_armchair.jpeg",
+        "caption": [
+            "A apple to the right of a armchair",
+            "A apple on a armchair",
+            "A apple under a armchair",
+            "A apple to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the apple in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 318,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/phone_under_armchair.jpeg",
+        "caption": [
+            "A phone under a armchair",
+            "A phone on a armchair",
+            "A phone to the left of a armchair",
+            "A phone to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the phone in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 319,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pillow_left_of_armchair.jpeg",
+        "caption": [
+            "A pillow to the left of a armchair",
+            "A pillow on a armchair",
+            "A pillow under a armchair",
+            "A pillow to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pillow in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 320,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/helmet_under_table.jpeg",
+        "caption": [
+            "A helmet under a table",
+            "A helmet on a table",
+            "A helmet to the left of a table",
+            "A helmet to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the helmet in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 321,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pillow_right_of_armchair.jpeg",
+        "caption": [
+            "A pillow to the right of a armchair",
+            "A pillow on a armchair",
+            "A pillow under a armchair",
+            "A pillow to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pillow in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 323,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/microphone_right_of_chair.jpeg",
+        "caption": [
+            "A microphone to the right of a chair",
+            "A microphone on a chair",
+            "A microphone under a chair",
+            "A microphone to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the microphone in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 324,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/oven-mitt_on_chair.jpeg",
+        "caption": [
+            "A oven mitt on a chair",
+            "A oven mitt under a chair",
+            "A oven mitt to the left of a chair",
+            "A oven mitt to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the oven mitt in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 325,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bottle_right_of_table.jpeg",
+        "caption": [
+            "A bottle to the right of a table",
+            "A bottle on a table",
+            "A bottle under a table",
+            "A bottle to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the bottle in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 326,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/rose_on_armchair.jpeg",
+        "caption": [
+            "A rose on a armchair",
+            "A rose under a armchair",
+            "A rose to the left of a armchair",
+            "A rose to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the rose in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 327,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pillow_left_of_table.jpeg",
+        "caption": [
+            "A pillow to the left of a table",
+            "A pillow on a table",
+            "A pillow under a table",
+            "A pillow to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the pillow in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 329,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/kettle_right_of_table.jpeg",
+        "caption": [
+            "A kettle to the right of a table",
+            "A kettle on a table",
+            "A kettle under a table",
+            "A kettle to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the kettle in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 330,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/toy-cactus_right_of_chair.jpeg",
+        "caption": [
+            "A toy cactus to the right of a chair",
+            "A toy cactus on a chair",
+            "A toy cactus under a chair",
+            "A toy cactus to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the toy cactus in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 331,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/book_under_table.jpeg",
+        "caption": [
+            "A book under a table",
+            "A book on a table",
+            "A book to the left of a table",
+            "A book to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the book in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 334,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/mug_under_table.jpeg",
+        "caption": [
+            "A mug under a table",
+            "A mug on a table",
+            "A mug to the left of a table",
+            "A mug to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the mug in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 335,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/headphones_right_of_chair.jpeg",
+        "caption": [
+            "A headphones to the right of a chair",
+            "A headphones on a chair",
+            "A headphones under a chair",
+            "A headphones to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the headphones in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 336,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bowl_on_armchair.jpeg",
+        "caption": [
+            "A bowl on a armchair",
+            "A bowl under a armchair",
+            "A bowl to the left of a armchair",
+            "A bowl to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bowl in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 337,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/photograph_right_of_chair.jpeg",
+        "caption": [
+            "A photograph to the right of a chair",
+            "A photograph on a chair",
+            "A photograph under a chair",
+            "A photograph to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the photograph in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 338,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/mug_under_armchair.jpeg",
+        "caption": [
+            "A mug under a armchair",
+            "A mug on a armchair",
+            "A mug to the left of a armchair",
+            "A mug to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the mug in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 339,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lamp_left_of_chair.jpeg",
+        "caption": [
+            "A lamp to the left of a chair",
+            "A lamp on a chair",
+            "A lamp under a chair",
+            "A lamp to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the lamp in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 340,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/plate_on_chair.jpeg",
+        "caption": [
+            "A plate on a chair",
+            "A plate under a chair",
+            "A plate to the left of a chair",
+            "A plate to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the plate in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 341,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bread_right_of_armchair.jpeg",
+        "caption": [
+            "A bread to the right of a armchair",
+            "A bread on a armchair",
+            "A bread under a armchair",
+            "A bread to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bread in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 342,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/helmet_on_chair.jpeg",
+        "caption": [
+            "A helmet on a chair",
+            "A helmet under a chair",
+            "A helmet to the left of a chair",
+            "A helmet to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the helmet in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 344,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/orange_left_of_armchair.jpeg",
+        "caption": [
+            "A orange to the left of a armchair",
+            "A orange on a armchair",
+            "A orange under a armchair",
+            "A orange to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the orange in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 345,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/remote_on_armchair.jpeg",
+        "caption": [
+            "A remote on a armchair",
+            "A remote under a armchair",
+            "A remote to the left of a armchair",
+            "A remote to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the remote in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 347,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/hat_under_chair.jpeg",
+        "caption": [
+            "A hat under a chair",
+            "A hat on a chair",
+            "A hat to the left of a chair",
+            "A hat to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the hat in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 348,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/scissors_on_chair.jpeg",
+        "caption": [
+            "A scissors on a chair",
+            "A scissors under a chair",
+            "A scissors to the left of a chair",
+            "A scissors to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the scissors in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 349,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lemon_under_chair.jpeg",
+        "caption": [
+            "A lemon under a chair",
+            "A lemon on a chair",
+            "A lemon to the left of a chair",
+            "A lemon to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the lemon in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 350,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/apple_under_armchair.jpeg",
+        "caption": [
+            "A apple under a armchair",
+            "A apple on a armchair",
+            "A apple to the left of a armchair",
+            "A apple to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the apple in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 352,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/knife_on_chair.jpeg",
+        "caption": [
+            "A knife on a chair",
+            "A knife under a chair",
+            "A knife to the left of a chair",
+            "A knife to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the knife in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 353,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/remote_right_of_armchair.jpeg",
+        "caption": [
+            "A remote to the right of a armchair",
+            "A remote on a armchair",
+            "A remote under a armchair",
+            "A remote to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the remote in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 354,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/vase_left_of_chair.jpeg",
+        "caption": [
+            "A vase to the left of a chair",
+            "A vase on a chair",
+            "A vase under a chair",
+            "A vase to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the vase in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 355,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/spatula_right_of_table.jpeg",
+        "caption": [
+            "A spatula to the right of a table",
+            "A spatula on a table",
+            "A spatula under a table",
+            "A spatula to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the spatula in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 357,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/phone_right_of_armchair.jpeg",
+        "caption": [
+            "A phone to the right of a armchair",
+            "A phone on a armchair",
+            "A phone under a armchair",
+            "A phone to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the phone in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 358,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/book_left_of_armchair.jpeg",
+        "caption": [
+            "A book to the left of a armchair",
+            "A book on a armchair",
+            "A book under a armchair",
+            "A book to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the book in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 359,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/shoes_on_chair.jpeg",
+        "caption": [
+            "A shoes on a chair",
+            "A shoes under a chair",
+            "A shoes to the left of a chair",
+            "A shoes to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the shoes in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 360,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/ball-of-yarn_under_chair.jpeg",
+        "caption": [
+            "A ball of yarn under a chair",
+            "A ball of yarn on a chair",
+            "A ball of yarn to the left of a chair",
+            "A ball of yarn to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the ball of yarn in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 361,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/laptop_left_of_armchair.jpeg",
+        "caption": [
+            "A laptop to the left of a armchair",
+            "A laptop on a armchair",
+            "A laptop under a armchair",
+            "A laptop to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the laptop in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 362,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bottle_under_armchair.jpeg",
+        "caption": [
+            "A bottle under a armchair",
+            "A bottle on a armchair",
+            "A bottle to the left of a armchair",
+            "A bottle to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bottle in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 363,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/painting_right_of_table.jpeg",
+        "caption": [
+            "A painting to the right of a table",
+            "A painting on a table",
+            "A painting under a table",
+            "A painting to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the painting in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 365,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/sunglasses_on_table.jpeg",
+        "caption": [
+            "A sunglasses on a table",
+            "A sunglasses under a table",
+            "A sunglasses to the left of a table",
+            "A sunglasses to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where are the sunglasses in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 366,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bowl_right_of_table.jpeg",
+        "caption": [
+            "A bowl to the right of a table",
+            "A bowl on a table",
+            "A bowl under a table",
+            "A bowl to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the bowl in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 367,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cap_under_armchair.jpeg",
+        "caption": [
+            "A cap under a armchair",
+            "A cap on a armchair",
+            "A cap to the left of a armchair",
+            "A cap to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the cap in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 368,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/beer-bottle_under_armchair.jpeg",
+        "caption": [
+            "A beer bottle under a armchair",
+            "A beer bottle on a armchair",
+            "A beer bottle to the left of a armchair",
+            "A beer bottle to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the beer bottle in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 372,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/knife_under_table.jpeg",
+        "caption": [
+            "A knife under a table",
+            "A knife on a table",
+            "A knife to the left of a table",
+            "A knife to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the knife in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 373,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/shoes_under_chair.jpeg",
+        "caption": [
+            "A shoes under a chair",
+            "A shoes on a chair",
+            "A shoes to the left of a chair",
+            "A shoes to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the shoes in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 374,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/remote_on_chair.jpeg",
+        "caption": [
+            "A remote on a chair",
+            "A remote under a chair",
+            "A remote to the left of a chair",
+            "A remote to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the remote in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 375,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pot_on_chair.jpeg",
+        "caption": [
+            "A pot on a chair",
+            "A pot under a chair",
+            "A pot to the left of a chair",
+            "A pot to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pot in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 376,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/headphones_right_of_armchair.jpeg",
+        "caption": [
+            "A headphones to the right of a armchair",
+            "A headphones on a armchair",
+            "A headphones under a armchair",
+            "A headphones to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where are the headphones in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 377,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/headphones_on_chair.jpeg",
+        "caption": [
+            "A headphones on a chair",
+            "A headphones under a chair",
+            "A headphones to the left of a chair",
+            "A headphones to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where are the headphones in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 378,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/water-bottle_under_armchair.jpeg",
+        "caption": [
+            "A water bottle under a armchair",
+            "A water bottle on a armchair",
+            "A water bottle to the left of a armchair",
+            "A water bottle to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the water bottle in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 379,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/dragonfruit_under_table.jpeg",
+        "caption": [
+            "A dragonfruit under a table",
+            "A dragonfruit on a table",
+            "A dragonfruit to the left of a table",
+            "A dragonfruit to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the dragonfruit in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 381,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/banjo_under_armchair.jpeg",
+        "caption": [
+            "A banjo under a armchair",
+            "A banjo on a armchair",
+            "A banjo to the left of a armchair",
+            "A banjo to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the banjo in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 382,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/scarf_right_of_chair.jpeg",
+        "caption": [
+            "A scarf to the right of a chair",
+            "A scarf on a chair",
+            "A scarf under a chair",
+            "A scarf to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the scarf in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 383,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/tape_on_armchair.jpeg",
+        "caption": [
+            "A tape on a armchair",
+            "A tape under a armchair",
+            "A tape to the left of a armchair",
+            "A tape to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the tape in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 384,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/sunglasses_left_of_table.jpeg",
+        "caption": [
+            "A sunglasses to the left of a table",
+            "A sunglasses on a table",
+            "A sunglasses under a table",
+            "A sunglasses to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where are the sunglasses in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 385,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/laptop_on_chair.jpeg",
+        "caption": [
+            "A laptop on a chair",
+            "A laptop under a chair",
+            "A laptop to the left of a chair",
+            "A laptop to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the laptop in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 386,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/knife_under_chair.jpeg",
+        "caption": [
+            "A knife under a chair",
+            "A knife on a chair",
+            "A knife to the left of a chair",
+            "A knife to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the knife in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 387,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/spatula_under_chair.jpeg",
+        "caption": [
+            "A spatula under a chair",
+            "A spatula on a chair",
+            "A spatula to the left of a chair",
+            "A spatula to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the spatula in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 388,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pillow_on_armchair.jpeg",
+        "caption": [
+            "A pillow on a armchair",
+            "A pillow under a armchair",
+            "A pillow to the left of a armchair",
+            "A pillow to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pillow in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 393,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/can_left_of_chair.jpeg",
+        "caption": [
+            "A can to the left of a chair",
+            "A can on a chair",
+            "A can under a chair",
+            "A can to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the can in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 394,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/cup_left_of_armchair.jpeg",
+        "caption": [
+            "A cup to the left of a armchair",
+            "A cup on a armchair",
+            "A cup under a armchair",
+            "A cup to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the cup in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Left"
+        ]
+    },
+    {
+        "idx": 395,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/lamp_under_chair.jpeg",
+        "caption": [
+            "A lamp under a chair",
+            "A lamp on a chair",
+            "A lamp to the left of a chair",
+            "A lamp to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the lamp in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 396,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/sunglasses_right_of_armchair.jpeg",
+        "caption": [
+            "A sunglasses to the right of a armchair",
+            "A sunglasses on a armchair",
+            "A sunglasses under a armchair",
+            "A sunglasses to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where are the sunglasses in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 397,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/pan_right_of_chair.jpeg",
+        "caption": [
+            "A pan to the right of a chair",
+            "A pan on a chair",
+            "A pan under a chair",
+            "A pan to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the pan in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 398,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bottle-of-orange-juice_on_chair.jpeg",
+        "caption": [
+            "A bottle of orange juice on a chair",
+            "A bottle of orange juice under a chair",
+            "A bottle of orange juice to the left of a chair",
+            "A bottle of orange juice to the right of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bottle of orange juice in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 399,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/toilet-roll_right_of_table.jpeg",
+        "caption": [
+            "A toilet roll to the right of a table",
+            "A toilet roll on a table",
+            "A toilet roll under a table",
+            "A toilet roll to the left of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the toilet roll in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 400,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/plate_under_armchair.jpeg",
+        "caption": [
+            "A plate under a armchair",
+            "A plate on a armchair",
+            "A plate to the left of a armchair",
+            "A plate to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the plate in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 401,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bottle_on_table.jpeg",
+        "caption": [
+            "A bottle on a table",
+            "A bottle under a table",
+            "A bottle to the left of a table",
+            "A bottle to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the bottle in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 402,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/bowl_right_of_chair.jpeg",
+        "caption": [
+            "A bowl to the right of a chair",
+            "A bowl on a chair",
+            "A bowl under a chair",
+            "A bowl to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the bowl in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 404,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/scarf_on_table.jpeg",
+        "caption": [
+            "A scarf on a table",
+            "A scarf under a table",
+            "A scarf to the left of a table",
+            "A scarf to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the scarf in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 405,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/plate_right_of_armchair.jpeg",
+        "caption": [
+            "A plate to the right of a armchair",
+            "A plate on a armchair",
+            "A plate under a armchair",
+            "A plate to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the plate in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 406,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/remote_right_of_chair.jpeg",
+        "caption": [
+            "A remote to the right of a chair",
+            "A remote on a chair",
+            "A remote under a chair",
+            "A remote to the left of a chair"
+        ],
+        "prompt": "<image>\nUSER: Where is the remote in relation to the chair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    },
+    {
+        "idx": 407,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/glove_on_armchair.jpeg",
+        "caption": [
+            "A glove on a armchair",
+            "A glove under a armchair",
+            "A glove to the left of a armchair",
+            "A glove to the right of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the glove in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "On"
+        ]
+    },
+    {
+        "idx": 409,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/dog_under_table.jpeg",
+        "caption": [
+            "A dog under a table",
+            "A dog on a table",
+            "A dog to the left of a table",
+            "A dog to the right of a table"
+        ],
+        "prompt": "<image>\nUSER: Where is the dog in relation to the table? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Under"
+        ]
+    },
+    {
+        "idx": 411,
+        "image_path": "/data3/KJE/code/WIL_DeepLearningProject_2/VLM_Hallu/data/controlled_images/book_right_of_armchair.jpeg",
+        "caption": [
+            "A book to the right of a armchair",
+            "A book on a armchair",
+            "A book under a armchair",
+            "A book to the left of a armchair"
+        ],
+        "prompt": "<image>\nUSER: Where is the book in relation to the armchair? Answer with left, right, on or under.\nASSISTANT:",
+        "answer": [
+            "Right"
+        ]
+    }
+]

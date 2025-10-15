@@ -1,0 +1,17 @@
+data/
+outputs/
+base/
+logs_pope/
+script/
+src_copy/
+
+src/old/
+*.pyc
+*.log
+*.wandb
+
+wandb/
+
+log_pope/
+scripts/
+
